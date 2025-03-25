@@ -8,7 +8,8 @@ const archivos = [
     "/archivoTxtEsp3.txt",
     "/archivoTxtEsp4.txt",
     "/archivoTxtEsp5.txt"
-  ];  
+  ];
+  
 const aleatorio = archivos[Math.floor(Math.random() * archivos.length)];
 
 fetch(aleatorio)
