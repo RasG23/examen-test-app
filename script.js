@@ -3,12 +3,12 @@ let indiceActual = 0;
 let puntuacion = 0;
 
 const archivos = [
-  "archivoTxt Esp1.txt",
-  "archivoTxt Esp2.txt",
-  "archivoTxt Esp3.txt",
-  "archivoTxt Esp4.txt",
-  "archivoTxt Esp5.txt"
-];
+    "/archivoTxt Esp1.txt",
+    "/archivoTxt Esp2.txt",
+    "/archivoTxt Esp3.txt",
+    "/archivoTxt Esp4.txt",
+    "/archivoTxt Esp5.txt"
+  ];
 
 const aleatorio = archivos[Math.floor(Math.random() * archivos.length)];
 
