@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Examen Tipo Test</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#007bff">
+  <link rel="icon" type="image/png" href="icon-192.png">
+</head>
+<body>
+  <div class="container">
+    <h1>Examen Tipo Test</h1>
+    <div id="pregunta-container"></div>
+    <button id="siguiente-btn">Siguiente</button>
+    <div id="resultado" class="resultado"></div>
+  </div>
+  <script src="script.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js');
+    }
+  </script>
+</body>
+</html>

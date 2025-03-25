@@ -1,0 +1,3920 @@
+Identificador: 1049
+Enunciado:
+Un bulto Industrial tipo 1 (IP-1):
+1.- Debe superar el ensayo de caída y el de penetración que simulan condiciones normales de transporte.
+2.- Debe superar los cuatro ensayos de condiciones normales de transporte.
+3.- Debe superar un ensayo de presión interna si el contenido es gaseoso.
+4.- No precisa superar ningún ensayo.
+Respuesta: 4
+Norma: ADR 6.4.5.1
+
+Identificador: 1050
+Enunciado:
+De las siguientes operaciones, ¿cuáles se incluyen en el concepto de transporte de materias radiactivas?
+1.- La concepción de los embalajes, su fabricación, su mantenimiento y su reparación.
+2.- La preparación, el envío, la carga y la puesta en ruta, incluido el almacenamiento en tránsito.
+3.- La descarga y la recepción en el lugar de destino final de las cargas de materias radiactivas y de bultos.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 1.7.1.3
+
+Identificador: 1051
+Enunciado:
+¿Cuáles de los siguientes transportes de materias radiactivas quedan exentos de las disposiciones del ADR?
+1.- El transporte de materias de baja actividad específica. 
+2.- El transporte de materias radiactivas en forma especial.
+3.- El transporte de material radiactivo que se desplace dentro de un establecimiento que esté sujeto a unas normas de seguridad adecuadas y cuyo desplazamiento no suponga la utilización de carreteras o vías férreas públicas.
+4.- El transporte de bultos exceptuados.
+Respuesta: 3
+Norma: ADR 1.7.1.4 Letra b)
+
+Identificador: 1052
+Enunciado:
+¿Qué otras circunstancias se deben tener en cuenta en un bulto radiactivo, además de la propiedades radiactivas y fisibles, para respetar las disposiciones del ADR?
+1.- La explosividad, inflamabilidad, piroforicidad, toxicidad química y corrosividad.
+2.- El embalaje, el etiquetado y el marcado.
+3.- El almacenamiento, la segregación y el transporte.
+4.- Todas las anteriores.
+Respuesta: 4
+Norma: ADR 1.7.5
+
+Identificador: 1053
+Enunciado:
+¿Quién deberá informar al expedidor de la no conformidad con cualquiera de los límites del ADR que es de aplicación a la intensidad de la radiación? 
+1.- El transportista, si la no conformidad se constata a lo largo del transporte.
+2.- El destinatario, si la no conformidad se constata en la recepción.
+3.- En todos los casos, el cargador o el transportista.
+4.- A y B son ciertas.
+Respuesta: 4
+Norma: ADR 1.7.6.1 Letra a)
+
+Identificador: 1055
+Enunciado:
+¿Qué es un bulto del tipo B(U)?
+1.- Es un bulto B de diseño Único.
+2.- Un bulto que requiere de aprobación unilateral del país de origen del diseño
+3.- Un bulto que sólo precisa superar un ensayo térmico y de inmersión.
+4.- Un bulto que no puede usarse en países ADR salvo que disponga de aprobación multilateral
+Respuesta: 2
+Norma: ADR 6.4.22.2
+
+Identificador: 1057
+Enunciado:
+En un suceso en el que se vean implicadas materias de la clase 7, ¿cuáles, de las siguientes opciones, es un criterio para considerar que se ha producido una pérdida de producto?
+1.- Un hecho en que se pueda pensar en una degradación significativa de cualquiera de las funciones de seguridad del bulto, que lo deje en una situación inadecuada para continuar el transporte sin medidas de seguridad adicionales.
+2.- Cualquier liberación de materias radiactivas fuera de los bultos.
+3.- Una exposición que sobrepase los límites fijados en las normas sobre protección de trabajadores y del público contra radiaciones ionizantes.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 1.8.5.3
+
+Identificador: 1058
+Enunciado:
+Un objeto contaminado en la superficie OCS-I:
+1.- Tiene en su superficie accesible más contaminación transitoria que un OCS-II.
+2.- Tiene la mitad de contaminación superficial que un OCS-II.
+3.- Tiene menos contaminación superficial transitoria en su superficie accesible que un OCS-II.
+4.- Ninguna de las anteriores respuestas es correcta.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.2
+
+Identificador: 1059
+Enunciado:
+Las mercancías peligrosas de la clase 7, ¿son consideradas materiales radiactivos de alto riesgo?
+1.- Sí, siempre.
+2.- Sí, si su actividad es igual o superior al umbral de protección para el transporte.
+3.- No.
+4.- Depende del vehículo con que se transporten.
+Respuesta: 2
+Norma: ADR 1.10.3.1.3
+
+Identificador: 1060
+Enunciado:
+Cuando una cápsula sellada constituya parte de las materias radiactivas en forma especial, ¿cómo  se fabricará dicha cápsula?
+1.- De tal forma que sólo se abra al destruirla.
+2.- De tal forma que sólo se pueda abrir con medios mecánicos.
+3.- De tal forma que su apertura sea fácilmente accesible.
+4.- De tal forma que no se pueda abrir durante el transporte.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.3.1
+
+Identificador: 1061
+Enunciado:
+¿Qué materiales no deberá contener un bulto Tipo B(U)?
+1.- Materiales radiactivos con actividades mayores a las autorizadas para el modelo de bulto.
+2.- Radionucleidos diferentes de los autorizados para el modelo de bulto.
+3.- Materias en una forma o en un estado físico o químico diferentes de los autorizados para el modelo de bulto.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 2.2.7.2.4.6.2
+
+Identificador: 1062
+Enunciado:
+¿Qué se entiende por materia radiactiva en forma especial?
+1.- Una materia radiactiva sólida no susceptible de dispersión.
+2.- Una materia radiactiva líquida no susceptible de dispersión.
+3.- Una materia radiactiva sólida o líquida no susceptible de dispersión.
+4.- Una materia radiactiva sólida que se disperse poco.
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1063
+Enunciado:
+¿Los transportistas de materias radiactivas deben desarrollar un programa de protección radiológica?
+1.- No, si no transporta sustancias fisionables.
+2.- Sólo si se lo requiere el Consejo de Seguridad Nuclear.
+3.- Sólo si el expedidor se lo requiere.
+4.- Sí.
+Respuesta: 4
+Norma: ADR 1.7.2.1
+
+Identificador: 1064
+Enunciado:
+La contaminación transitoria en la superficie externa de un bulto no debe exceder de:
+1.- 7 Bq/cm² para emisores beta y gamma y alfa de baja toxicidad y 4 Bq/cm² para los demás emisores alfa.
+2.- 0,4 Bq/cm² para emisores beta, gamma y alfa de baja toxicidad y 4 Bq/cm² para los demás emisores alfa.
+3.- 4 Bq/cm² para emisores beta y gamma y los emisores alfa de baja toxicidad y 0,4 Bq/cm² para los demás emisores alfa.
+4.- 1 Bq/cm² en todos los casos.
+Respuesta: 3
+Norma: ADR 4.1.9.1.2
+
+Identificador: 1066
+Enunciado:
+¿Qué se deberá hacer con los bultos deteriorados o que presenten fugas de contenido radiactivo por encima de los límites admisibles?
+1.- Pueden seguir utilizándose pero por tiempo limitado para proceder a su descontaminación.
+2.- No se volverán a utilizar en el futuro.
+3.- No podrán volver a utilizarse hasta que se hayan reparado, o reintegrado a su estado inicial y descontaminado.
+4.- No deben producirse fugas en los bultos bajo ninguna condición.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (5.2)
+
+Identificador: 1067
+Enunciado:
+Los medios de transporte y equipo utilizado habitualmente para el transporte de materiales radiactivos:
+1.- Estarán sujetos a inspecciones periódicas a fin de determinar el grado de contaminación.
+2.- Deberán inspeccionarse siempre antes de cada uso para cerciorarse de que no están contaminados.
+3.- Deberán inspeccionarse siempre con una periodicidad anual.
+4.- No requieren inspección, ya que no es probable que se contaminen.
+Respuesta: 1
+Norma: ADR 7.5.11 CV33 (5.3)
+
+Identificador: 1068
+Enunciado:
+Todo vehículo que haya resultado contaminado durante el transporte de materiales radiactivos: 
+1.- No volverá a utilizarse en el futuro para el transporte de materiales radiactivos.
+2.- Seguirá utilizándose pero adoptando ciertas precauciones.
+3.- El vehículo difícilmente puede contaminarse porque las superficies han de cubrirse con plásticos cuando se transportan materiales radiactivos
+4.- Podrá utilizarse cuando se haya descontaminado por especialistas.
+Respuesta: 4
+Norma: ADR 7.5.11 CV33 (5.4)
+
+Identificador: 1069
+Enunciado:
+¿Qué ocurre si la tasas de dosis en un punto de la superficie externa de un bulto o sobreembalaje en la modalidad de uso exclusivo sobrepasa 10 mSv/h?
+1.- No puede transportarse por carretera.
+2.- Se puede transportar en cualquier caso.
+3.- Puede transportarse siempre que vaya sólo.
+4.- Se puede transportar con algunas precauciones.
+Respuesta: 1
+Norma: ADR 4.1.9.1.12
+
+Identificador: 1070
+Enunciado:
+¿Qué ocurre si la tasas de dosis en un punto de la superficie externa de un bulto o sobreembalaje sobrepasa 2 mSv/h y es inferior a 10 mSv/h?
+1.- No puede transportarse por carretera.
+2.- Puede transportarse en la modalidad de uso exclusivo cumpliendo ciertas condiciones.
+3.- Puede transportarse sin problemas.
+4.- Con este nivel de radiación debe transportarse por vía aérea.
+Respuesta: 2
+Norma: ADR 4.1.9.1.11
+
+Identificador: 1071
+Enunciado:
+¿Qué se entiende por tasa de dosis?
+1.- La radiación de un isótopo a 1 metro de distancia.
+2.- La tasa de dosis expresada en Bq/h.
+3.- La dosis ambiental equivalente por unidad de tiempo.
+4.- La tasa de dosis expresada en mrem/h
+Respuesta: 3
+Norma: ADR 1.2.1 Letra T
+
+Identificador: 1072
+Enunciado:
+En el transporte de materias radiactivas, ¿qué se entiende por bulto?
+1.- Un recipiente, tal como una caja o bolsa.
+2.- El embalaje con su contenido radiactivo.
+3.- Un embalaje específico para material radiactivo.
+4.- Cualquier recipiente que pudiera utilizarse para contener material radiactivo.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra B
+
+Identificador: 1073
+Enunciado:
+¿Para qué se utiliza el índice de transporte (IT) en el transporte de materias radiactivas?
+1.- Para controlar el número de bultos radiactivos que se pueden transportar.
+2.- Para controlar la contaminación radiactiva.
+3.- Para controlar la exposición a las radiaciones.
+4.- Para controlar el riesgo a la criticidad.
+Respuesta: 3
+Norma: ADR 1.2.1 Letra I
+
+Identificador: 1074
+Enunciado:
+¿Qué se entiende por materiales radiactivos en forma especial?
+1.- Un material radiactivo sólido no dispersable o una capsula sellada que contenga materiales radiactivos.
+2.- Una materia radiactiva con una configuración física especial.
+3.- Un material radiactivo mezclado con otro material peligroso.
+4.- Materiales radiactivos que por su tamaño resultan difíciles de transportar.
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1075
+Enunciado:
+Los expedidores de materias radiactivas, ¿deben disponer de un programa de protección radiológica?
+1.- Sólo si transporta bultos de sustancias fisionables.
+2.- Sí.
+3.- Sólo si se lo exige la autoridad competente.
+4.- Sólo si transporta bultos de tipo B o C.
+Respuesta: 2
+Norma: ADR 1.7.2.1
+
+Identificador: 1076
+Enunciado:
+El establecimiento de un Programa de protección radiológica es un requisito que se aplica:
+1.- Únicamente a transportistas de materiales radiactivos.
+2.- Al transporte de materiales radiactivos en general.
+3.- Únicamente a los expedidores de materiales radiactivos.
+4.- Sólo a los expedidores y receptores de materiales radiactivos.
+Respuesta: 2
+Norma: ADR 1.7.2.1
+
+Identificador: 1077
+Enunciado:
+¿Cuál de las siguientes disposiciones se deben verificar antes de la primera expedición de un bulto radiactivo? 
+1.- No es necesario verificar nada.
+2.- El número de serie del bulto.
+3.- Que se observan todas las disposiciones del ADR.
+4.- Que se han adherido correctamente la señales correspondientes.
+Respuesta: 3
+Norma: ADR 4.1.9.1.8
+
+Identificador: 1078
+Enunciado:
+¿Cuál de las siguientes disposiciones se deben verificar antes de la primera expedición de un bulto radiactivo que requiera de autorización de la autoridad competente? 
+1.- Que la temperatura y presión son las especificadas en el certificado de aprobación.
+2.- Que el certificado de aprobación lleva todas las firmas.
+3.- Que se observan las disposiciones especificadas en el certificado de aprobación.
+4.- Al disponer de certificado de aprobación no se requiere verificar nada.
+Respuesta: 3
+Norma: ADR 4.1.9.1.8
+
+Identificador: 1079
+Enunciado:
+Si un envío de materias radiactivas no cumple todas las disposiciones aplicables del ADR:
+1.- No podrá ser transportado en ningún caso.
+2.- Podrá ser transportado si ha sido notificado con suficiente antelación a la autoridad competente.
+3.- Podrá ser transportado si ha sido aprobado por la autoridad competente mediante autorización especial.
+4.- Sólo podrá ser transportado si se trata de productos médicos.
+Respuesta: 3
+Norma: ADR 5.1.5.1.3
+
+Identificador: 1080
+Enunciado:
+Una expedición de bultos del tipo B(M):
+1.- Precisa siempre de aprobación multilateral.
+2.- Debe siempre notificarse a la autoridad competente de cada país por donde va a ser transportada.
+3.- Sólo debe notificarse a la autoridad competente de cada país por donde va a ser transportada si la actividad es superior a 1000 TBq.
+4.- Sólo debe notificarse a la autoridad competente del país de origen antes de la primera expedición.
+Respuesta: 2
+Norma: ADR 5.1.5.1.4 b)
+
+Identificador: 1081
+Enunciado:
+¿Cuáles de los siguientes bultos radiactivos no precisan certificado de aprobación de la autoridad competente?
+1.- Bultos del tipo A.
+2.- Bultos del tipo B(U) y B(M).
+3.- Bultos del tipo C.
+4.- Todas las respuestas anteriores son correctas.
+Respuesta: 1
+Norma: ADR 5.1.5.2.1
+
+Identificador: 1082
+Enunciado:
+La autoridad competente tiene que emitir certificado de aprobación para:
+1.- Las materias radiactivas en forma especial.
+2.- Los bultos que contengan 0,1 kg o más de hexafluoruro de uranio.
+3.- Los bultos que contengan materias fisionables.
+4.- Todas las respuestas anteriores son correctas.
+Respuesta: 4
+Norma: ADR 5.1.5.2.1
+
+Identificador: 1083
+Enunciado:
+¿Qué materiales o bultos radiactivos requieren aprobación multilateral?
+1.- Bultos con materias fisionables.
+2.- Bultos del tipo C.
+3.- Bultos del tipo B(U).
+4.- Materiales radiactivos en forma especial.
+Respuesta: 1
+Norma: ADR 6.4.22.4
+
+Identificador: 1084
+Enunciado:
+El diseño de un Bulto Industrial BI-1(IP-1) para contener sustancias fisionables: 
+1.- Requiere aprobación multilateral. 
+2.- Requiere aprobación unilateral.
+3.- No requiere aprobación por tratarse de un BI-1.
+4.- Requiere aprobación bajo arreglo especial. 
+Respuesta: 1
+Norma: ADR 6.4.22.4
+
+Identificador: 1085
+Enunciado:
+Una solicitud de aprobación de diseño de bultos del tipo B(U) o de tipo C debe incluir:
+1.- Una descripción detallada del contenido radiactivo.
+2.- Instrucciones de operación y mantenimiento para la utilización del embalaje.
+3.- Una especificación del sistema de gestión aplicable 
+4.- Todas las respuestas anteriores son correctas
+Respuesta: 4
+Norma: ADR 6.4.23.4
+
+Identificador: 1086
+Enunciado:
+Un bulto de tipo A requiere:
+1.- La aprobación del diseño del país de origen.
+2.- La aprobación del diseño si la actividad es mayor de 3000 A1 o 3000 A2.
+3.- La notificación de la expedición a los países de tránsito.
+4.- Justificación del cumplimiento de disposiciones del ADR aplicables si lo pide la autoridad competente. 
+Respuesta: 4
+Norma: ADR 5.1.5.2.3
+
+Identificador: 1087
+Enunciado:
+¿Qué significa la clave de tipo X en un certificado de aprobación?
+1.- Arreglo especial.
+2.- Diseño de Hexafluoruro de uranio.
+3.- Material radiactivo en forma especial.
+4.- Expedición.
+Respuesta: 1
+Norma: ADR 6.4.23.11
+
+Identificador: 1088
+Enunciado:
+¿Qué significa la clave de tipo B(M)F en un certificado de aprobación? 
+1.- Bulto para materiales radiactivos en forma especial.
+2.- Bulto para materias fisionables.
+3.- Bulto del tipo B(M) para materias fisionables.
+4.- Ninguna de las respuestas anteriores es cierta.
+Respuesta: 3
+Norma: ADR 6.4.23.11
+
+Identificador: 1089
+Enunciado:
+¿Qué tipo de expedición precisa de la notificación previa a la autoridad competente?
+1.- Expedición con bultos del tipo B(M).
+2.- Expedición con bultos del tipo B(U) con actividad superior a 1000 TBq.
+3.- Transporte bajo autorización especial.
+4.- Todas las respuestas anteriores son correctas.
+Respuesta: 4
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1090
+Enunciado:
+¿Qué límite no debe superarse en un vehículo, no en la modalidad de uso exclusivo? 
+1.- 0,1 mSv/h a 1 m de la superficie exterior del vehículo.
+2.- 2 mSv/h en cualquier punto de la superficie exterior del vehículo.
+3.- 10 mSv/h en cualquier punto de la superficie exterior del vehículo.
+4.- Suma total de los índices de transporte de 10.
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (3.3)
+
+Identificador: 1091
+Enunciado:
+Un bulto con un índice de seguridad con respecto a la criticidad superior a 50:
+1.- Puede transportarse no en la modalidad de uso exclusivo.
+2.- Si el vehículo es cubierto puede transportarse no en la modalidad de uso exclusivo.
+3.- No tiene restricciones de transporte si va señalizado.
+4.- Sólo puede transportarse en la modalidad de uso exclusivo.
+Respuesta: 4
+Norma: ADR 7.5.11 CV33 (3.4)
+
+Identificador: 1092
+Enunciado:
+Un sobreembalaje con un índice de transporte mayor de 10:
+1.- Debe permanecer a 10 m de distancia del conductor durante el transporte.
+2.- Debe permanecer a 10 m de otros bultos radiactivos durante el almacenamiento.
+3.- Debe transportarse en la modalidad de uso exclusivo.
+4.- El índice de transporte nunca debe ser mayor de 10.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (3.4)
+
+Identificador: 1093
+Enunciado:
+En un almacén en tránsito, los bultos con materias fisionables:
+1.- Permanecerán a una distancia mínima de 6 m de otras mercancías peligrosas.
+2.- Permanecerán almacenados de modo que quede una separación mínima de 6 m de otros grupos de estos tipos.
+3.- Nunca se almacenarán con otras materias radiactivas.
+4.- Nunca se almacenarán bultos con sustancias fisionables.
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (4.1)
+
+Identificador: 1094
+Enunciado:
+Un bulto con etiqueta 7B no podrá cargarse en un mismo contenedor:
+1.- Con bultos con etiqueta 7C. 
+2.- Con bultos con etiqueta 1.5.
+3.- Con ninguna otra mercancía peligrosa. 
+4.- Con bultos con materias corrosivas.
+Respuesta: 2
+Norma: ADR 7.5.2.1
+
+Identificador: 1095
+Enunciado:
+En uso no exclusivo la suma total de los índices de transporte en el vehículo:
+1.- No está limitada.
+2.- No será superior a 50.
+3.- No será superior a 100 .
+4.- Sólo está limitada para BAE-I (LSA-I).
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (3.3)
+
+Identificador: 1096
+Enunciado:
+Antes de efectuar una carga de material radiactivo en un contenedor, éste deberá ser inspeccionado:
+1.- Sólo internamente.
+2.- Sólo externamente.
+3.- Interna y externamente.
+4.- La estructura y anclajes.
+Respuesta: 3
+Norma: ADR 7.5.1.2
+
+Identificador: 1097
+Enunciado:
+Una materia etiquetada con la etiqueta 7C, ¿puede cargarse en común con materias de la clase 3?
+1.- No.
+2.- Sí.
+3.- Sólo si es un bulto exceptuado.
+4.- Sólo si son materias LSA I.
+Respuesta: 2
+Norma: ADR 7.5.2.1
+
+Identificador: 1098
+Enunciado:
+¿Qué es la actividad específica de un radionucleido?
+1.- La actividad de un radionucleido por unidad de intensidad de radiación de dicho radionucleido.
+2.- La actividad de un radionucleido por unidad de tasa de dosis de dicho radionucleido.
+3.- La actividad de un radionucleido por unidad de masa de dicho radionucleido.
+4.- La actividad de un radionucleido por unidad de tasa de exposición de dicho radionucleido.
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1099
+Enunciado:
+¿Qué es un objeto sólido que por sí mismo no es radiactivo, pero en su superficie se encuentra repartida una materia radiactiva?
+1.- Una materia radiactiva en forma especial.
+2.- Un objeto contaminado superficialmente.
+3.- Un objeto radiactivo de alta actividad específica.
+4.- Un objeto que siempre debe transportarse de modo exclusivo.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1100
+Enunciado:
+En la notificación a las autoridades competentes de un envío, exigida para ciertas expediciones de material radiactivo, ¿se debe indicar el recorrido obligatoriamente?
+1.- No.
+2.- Sólo si discurre por recorridos alternativos.
+3.- Sólo si el transporte es de uso exclusivo.
+4.- Sí.
+Respuesta: 4
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1102
+Enunciado:
+En la carta de porte de un envío con varios bultos radiactivos, ¿se deberá indicar el contenido de cada bulto?
+1.- Sí.
+2.- No.
+3.- Sólo si los bultos contienen materias distintas .
+4.- Sólo para los envíos en forma exclusiva. 
+Respuesta: 1
+Norma: ADR 5.4.1.2.5.1
+
+Identificador: 1103
+Enunciado:
+Cuando un bulto del tipo B(U) esté dispuesto para ser cargado, ¿se deberán verificar todos los requisitos especificados en las disposiciones correspondientes del ADR?
+1.- Sí.
+2.- No.
+3.- Sólo los correspondientes a la fijación de la carga
+4.- Sólo las correspondientes a su hermeticidad
+Respuesta: 1
+Norma: ADR 4.1.9.1.8
+
+Identificador: 1104
+Enunciado:
+Un bulto con un índice de transporte de 15, ¿cómo debe ser transportado?
+1.- No tiene ninguna consideración especial.
+2.- En la modalidad de uso exclusivo.
+3.- Como LSA-I.
+4.- Como LSA-II.
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (3.4)
+
+Identificador: 1105
+Enunciado:
+Una mercancía marcada con la etiqueta 7A, ¿se puede cargar en común con una materia etiquetada con la etiqueta 7C?
+1.- No.
+2.- Sí.
+3.- Sí, con notificación a la Autoridad Competente. 
+4.- Sí, con permiso de la Autoridad Competente.
+Respuesta: 2
+Norma: ADR 7.5.2.1
+
+Identificador: 1107
+Enunciado:
+¿En qué idiomas deben figurar las inscripciones de las etiquetas correspondientes a la clase 7?
+1.- En el idioma del país de origen.
+2.- En inglés, francés o alemán. 
+3.- En inglés.
+4.- En castellano.
+Respuesta: 3
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1108
+Enunciado:
+En el transporte de materias peligrosas de clase 7, ¿cuántos tipos de bultos industriales hay?
+1.- 2.
+2.- 3.
+3.- 4.
+4.- 5.
+Respuesta: 2
+Norma: ADR 4.1.9.1.1
+
+Identificador: 1109
+Enunciado:
+¿En qué unidades se mide la tasa de dosis?
+1.- Becquerelio / hora.
+2.- Curio / hora.
+3.- Milisieverts / hora.
+4.- Curio / kg.
+Respuesta: 3
+Norma: ADR 1.2.1 T
+
+Identificador: 1110
+Enunciado:
+¿Qué se entiende por contaminación radiactiva?
+1.- Un fenómeno que produce radiactividad en el ambiente.
+2.- La presencia en una superficie de sustancias radiactivas en cantidades que sobrepasen 0,4 Bq/cm2, para los emisores beta y gamma.
+3.- La intensidad máxima de radiación en cualquier punto de la superficie exterior supere la cantidad de 0,04 Bq/cm2 para los emisores beta y gamma.
+4.- Cuando la intensidad máxima de radiación, a un metro de la superficie exterior, supera los 0,04 Bq/cm2 para los emisores beta y gamma.
+Respuesta: 2
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1111
+Enunciado:
+¿Qué se entiende por LSA (BAE)?
+1.- Materias de baja aceleración empobrecida.
+2.- Son las siglas del Reglamento que regula las materias radiactivas.
+3.- Materias de baja actividad específica.
+4.- Un contenedor específico para materias radiactivas
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1112
+Enunciado:
+En el transporte de materias peligrosas de la clase 7, ¿qué se entiende por A2?
+1.- La intensidad máxima de radiación autorizada en cualquier punto de la superficie exterior de un bulto del tipo A.
+2.- La intensidad máxima de radiación autorizada a un metro de la superficie de un bulto del tipo A.
+3.- La actividad máxima de materias radiactivas en forma especial en un bulto del tipo A.
+4.- La actividad máxima de materias radiactivas, distintas de las materias radiactivas en forma especial.
+Respuesta: 4
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1113
+Enunciado:
+¿Qué etiqueta de peligro se representa por un trébol esquematizado, inscripción RADIACTIVE o número de ONU, y cifra 7 en la esquina inferior?
+1.- 7D.
+2.- 7C.
+3.- 7B.
+4.- 7A.
+Respuesta: 1
+Norma: ADR 5.3.1.7.2
+
+Identificador: 1114
+Enunciado:
+¿Qué etiquetas de peligro debe llevar una materia radiactiva en un bulto de la categoría III-Amarilla?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- 7D.
+Respuesta: 3
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1115
+Enunciado:
+¿Qué etiquetas de peligro debe llevar una materia radiactiva en un bulto de la categoría II-Amarilla?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- 7D.
+Respuesta: 2
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1117
+Enunciado:
+En el transporte de materias peligrosas de la clase 7, ¿qué se entiende por A1?
+1.- La contaminación máxima de materias radiactivas en forma especial en un bulto del tipo A.
+2.- El índice de transporte máximo permitido en un bulto del tipo A.
+3.- La tasa de dosis máxima  permitida en la superficie de un bulto del tipo A.
+4.- El valor de la actividad máxima de materias radiactivas en forma especial en un bulto tipo A
+Respuesta: 4
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1118
+Enunciado:
+¿Cómo se representa la actividad máxima de materias radiactivas, distintas de los materiales radiactivos en forma especial, autorizada en un bulto del tipo A?
+1.- A1.
+2.- A2.
+3.- A3.
+4.- A4.
+Respuesta: 2
+Norma: ADR 2.2.7.2.4.4
+
+Identificador: 1119
+Enunciado:
+¿Cómo se clasifican los bultos industriales utilizados para transporte de materias peligrosas de clase 7?
+1.- IP-0 e IP-1.
+2.- IP-1, IP-2 e IP-3.
+3.- BI-1, BI-2, BI-3 y BI-4.
+4.- BI-0, BI-1 y BI-2.
+Respuesta: 2
+Norma: ADR 4.1.9.1.1
+
+Identificador: 1120
+Enunciado:
+¿Cómo se representa la actividad máxima de materias radiactivas en forma especial autorizada en un bulto del tipo A?
+1.- A1.
+2.- A2.
+3.- A3.
+4.- A4.
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1121
+Enunciado:
+Si un bulto tiene un índice de transporte de 5 y una intensidad máxima de radiación en cualquier punto de la superficie externa de 1 mSv/h, ¿en qué categoría se clasifica?
+1.- I-Blanca.
+2.- II-Amarilla.
+3.- III-Amarilla.
+4.- III-Amarilla y además según la modalidad de uso exclusivo.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1122
+Enunciado:
+Si un bulto tiene un índice de transporte 0 y una intensidad máxima de radiación en cualquier punto de la superficie externa que no sobrepasa los 0,005 mSv/h ¿en qué categoría se clasifica?
+1.- I-Blanca.
+2.- I-Amarilla.
+3.- II-Amarilla.
+4.- III-Amarilla.
+Respuesta: 1
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1123
+Enunciado:
+Si un bulto tiene un índice de transporte 0,5 y una intensidad máxima de radiación en cualquier punto de la superficie externa de 0,2 mSv/h ¿en qué categoría se clasificará?
+1.- I-Blanca.
+2.- II-Amarilla.
+3.- III-Amarilla.
+4.- No está clasificado en ninguna categoría.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1124
+Enunciado:
+Para determinar la categoría de bulto radiactivo, ¿qué habrá que tener en cuenta?
+1.- El índice de transporte y el peso.
+2.- El índice de transporte y la intensidad de radiación en superficie.
+3.- La intensidad de radiación en superficie y la actividad específica.
+4.- La actividad específica y el peso.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1125
+Enunciado:
+El índice de transporte de un bulto radiactivo es un número que expresa:
+1.- La intensidad de radiación máxima en cualquier punto de la superficie exterior del bulto en mrem/h.
+2.- La intensidad de radiación máxima, a 1 m de la superficie externa del bulto, en mSv/h multiplicada por 100.
+3.- La distancia mínima a la que deben situarse del bulto las personas.
+4.- La actividad específica de ese bulto en Bq/gr multiplicada por 100.
+Respuesta: 2
+Norma: ADR 5.1.5.3.1
+
+Identificador: 1126
+Enunciado:
+¿Cuáles de las siguientes unidades no se refieren a términos de radiactividad?
+1.- Becquerel.
+2.- Terabecquerel.
+3.- Tesla.
+4.- Sievert.
+Respuesta: 3
+Norma: ADR 1.2.2.1
+
+Identificador: 1127
+Enunciado:
+¿En qué unidad se expresa la actividad de una materia radiactiva?
+1.- Becquerel.
+2.- Sievert.
+3.- Rem.
+4.- Rad.
+Respuesta: 1
+Norma: ADR 1.2.2.1
+
+Identificador: 1128
+Enunciado:
+Si un vehículo ha sido contaminado con materias radiactivas:
+1.- Sólo podrá realizar transportes de uso exclusivo.
+2.- Sólo podrá realizar transportes de uso no exclusivo.
+3.- Deberá ser descontaminado lo antes posible y antes de volver a utilizarlo, hasta conseguir que la contaminación no supere los valores autorizados por el ADR.
+4.- No deberá ser descontaminado, realizando el transporte de modo combinado.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (5.4)
+
+Identificador: 1129
+Enunciado:
+Las expediciones de bultos Tipo A, que transporte material no fisionable:
+1.- No precisan de autorización si el bulto dispone de certificado de aprobación.
+2.- Sólo precisan de autorización si contienen Cobalto-60.
+3.- Sólo precisan de notificación previa.
+4.- No precisan de autorización, ni de notificación previa.
+Respuesta: 4
+Norma: ADR 5.1.5.5
+
+Identificador: 1130
+Enunciado:
+Se requiere la notificación a las autoridades competentes de las expediciones de bultos Tipo B(U), en los siguientes casos:
+1.- Nunca.
+2.- Cuando el contenido supera un límite de actividad.
+3.- Sólo cuando algún bulto está deteriorado.
+4.- Sólo cuando en la expedición se transporta además otra mercancía peligrosa.
+Respuesta: 2
+Norma: ADR 5.1.5.5
+
+Identificador: 1131
+Enunciado:
+Los bultos de tipo A llevarán:
+1.- Un precinto o sello que no se rompa fácilmente.
+2.- Barreras absorbedoras de impactos.
+3.- Impreso, o en una placa, la autorización de la Autoridad Competente.
+4.- Cerradura de seguridad.
+Respuesta: 1
+Norma: ADR 6.4.7.3
+
+Identificador: 1132
+Enunciado:
+Los bultos de Tipo B están diseñados para:
+1.- Soportar solamente condiciones normales de transporte, incluidos incidentes menores.
+2.- Que el calor generado en el interior no le afecte.
+3.- Transportar solamente materias de baja actividad específica.
+4.- Utilizarse únicamente para transporte por vía aérea.
+Respuesta: 2
+Norma: ADR 6.4.8.2
+
+Identificador: 1133
+Enunciado:
+En los bultos de Tipo A, se deberá tener en cuenta:
+1.- Temperatura y presión ambiente.
+2.- El comportamiento ante la radiación de la estructura portante.
+3.- Que la capa externa no recoja ni retenga agua.
+4.- Todas las anteriores.
+Respuesta: 4
+Norma: ADR 6.4.1
+
+Identificador: 1134
+Enunciado:
+¿Qué se puede transportar en un bulto exceptuado?
+1.- Cualquier cantidad de material radiactivo.
+2.- Una fracción de los valores A1 y A2.
+3.- Sólo material fisionable.
+4.- Sólo material de baja actividad específica.
+Respuesta: 2
+Norma: ADR 2.2.7.2.4.1.2
+
+Identificador: 1137
+Enunciado:
+Los grupos de bultos, sobreembalajes y contenedores que contengan materias fisionables, almacenadas en tránsito en cualquier área de almacenaje, deben limitarse de modo que la suma total de los CSI del grupo, no supere:
+1.- 20.
+2.- 40.
+3.- 50.
+4.- 100.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (4.1)
+
+Identificador: 1138
+Enunciado:
+¿Cuáles son los grupos en que se dividen las materias de baja actividad específica?
+1.- LSA - I y LSA - II.
+2.- LSA - I, LSA - II y LSA - III.
+3.- LSA - 0 y LSA - I.
+4.- OCS-I y OCS-II
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 1139
+Enunciado:
+¿Qué es la actividad de un radionucleido por unidad de masa?
+1.- La actividad equivalente.
+2.- La actividad específica.
+3.- La actividad transitoria.
+4.- La actividad no transitoria.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1140
+Enunciado:
+¿Qué etiquetas de peligro debe llevar una materia radiactiva en un bulto de la categoría I-Blanca?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- 7D.
+Respuesta: 1
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1141
+Enunciado:
+¿Qué cantidad no deberá superar la intensidad máxima de radiación en cualquier punto de la superficie exterior de un bulto transportado en uso exclusivo?
+1.- 10 µSv/h.
+2.- 0,1 mSv/h.
+3.- 1 mSv/h.
+4.- 10 mSv/h.
+Respuesta: 4
+Norma: ADR 4.1.9.1.11
+
+Identificador: 1143
+Enunciado:
+¿Qué pasa si en una superficie hay 0,06 Bq/cm² de un emisor alfa que no es de baja toxicidad?
+1.- Que existe contaminación radiactiva.
+2.- Que no existe contaminación radiactiva.
+3.- Que el índice de transporte es 0,06.
+4.- Que sólo podrá transportarse en bultos del tipo B(M).
+Respuesta: 1
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1144
+Enunciado:
+¿Qué pasa si en una superficie hay 0,7 Bq/cm² de un emisor gamma?
+1.- Que se debe transportarse como bulto exceptuado.
+2.- Que debe transportarse por sistema multimodal.
+3.- Que existe contaminación radiactiva.
+4.- Que no existe contaminación radiactiva.
+Respuesta: 3
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1146
+Enunciado:
+Las disposiciones aprobadas por la autoridad competente, en virtud de las cuales podrá transportarse un envío que no cumpla todas las normas aplicables del ADR para las materias radiactivas, es lo que se entiende como:
+1.- Autorización multimodal.
+2.- Autorización específica.
+3.- Autorización especial.
+4.- Autorización combinada.
+Respuesta: 3
+Norma: ADR 1.7.4.1
+
+Identificador: 1147
+Enunciado:
+¿Qué tipos de materias contienen los bultos industriales usados para el transporte de materias peligrosas clase 7?
+1.- IP-1 o IP-2.
+2.- BI-2 o BI-3.
+3.- BI o IP.
+4.- LSA o OCS.
+Respuesta: 4
+Norma: ADR 4.1.9.2.1
+
+Identificador: 1148
+Enunciado:
+¿En cuántos grupos están clasificados los objetos contaminados superficialmente?
+1.- En 2.
+2.- En 3.
+3.- En 4.
+4.- En 5.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.2
+
+Identificador: 1150
+Enunciado:
+Si un sobreembalaje no rígido contiene varios bultos, su índice de transporte será:
+1.- El índice de transporte mayor de todos los bultos agrupados.
+2.- La media aritmética de los índices de transporte de todos los bultos agrupados.
+3.- La suma de todos los índices de transporte de los bultos contenidos.
+4.- La diferencia entre el índice de transporte mayor y menor de todos los bultos agrupados.
+Respuesta: 3
+Norma: ADR 5.1.5.3.2
+
+Identificador: 1151
+Enunciado:
+¿Qué condiciones debe cumplir un bulto con categoría III-Amarilla?
+1.- Que el índice de transporte sea mayor que 0 pero menor que 1, y la intensidad de radiación en cualquier punto de la superficie externa, mayor que 5 µSv/h pero no mayor que 0,5 mSv/h.
+2.- Que el índice de transporte sea mayor que 1 pero no mayor que 10 y la intensidad de radiación en cualquier punto de la superficie externa, mayor que 0,5 mSv/h pero no mayor que 2 mSv/h.
+3.- Que el índice de transporte sea 0 y la intensidad de radiación en cualquier punto de la superficie externa no sea mayor que 5 µSv/h.
+4.- Que el índice de transporte sea mayor que 0 pero no mayor que 1 y la intensidad de radiación en cualquier punto de la superficie externa no sea mayor que 5 µSv/h.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1152
+Enunciado:
+¿Cómo deberá transportarse un bulto si su índice de transporte es superior a 10?
+1.- Según la modalidad de uso combinado.
+2.- Según la modalidad de uso multimodal.
+3.- Según la modalidad de uso exclusivo.
+4.- No necesita ninguna consideración especial.
+Respuesta: 3
+Norma: ADR 4.1.9.1.10
+
+Identificador: 1154
+Enunciado:
+¿Qué cantidad no deberá superar el índice de transporte de un bulto transportado en uso no exclusivo?
+1.- 10.
+2.- 0,5.
+3.- 50.
+4.- 1.
+Respuesta: 1
+Norma: ADR 4.1.9.1.10
+
+Identificador: 1155
+Enunciado:
+¿Qué significa la etiqueta de peligro número 7C situada en un bulto?
+1.- Materia radiactiva en bulto de la categoría I-Blanca.
+2.- Materia radiactiva en bulto de la categoría II-Amarilla.
+3.- Materia radiactiva en bulto de la categoría III-Amarilla.
+4.- Materia radiactiva en bulto de la categoría III-Blanca.
+Respuesta: 3
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1156
+Enunciado:
+¿Qué significa la etiqueta de peligro número 7B situada en un bulto?
+1.- Materia radiactiva en bulto de la categoría I-Blanca.
+2.- Materia radiactiva en bulto de la categoría II-Amarilla.
+3.- Materia radiactiva en bulto de la categoría III-Amarilla.
+4.- Materia radiactiva en bulto de la categoría III-Blanca.
+Respuesta: 2
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1157
+Enunciado:
+¿Qué significa la etiqueta de peligro número 7A situada en un bulto?
+1.- Materia radiactiva en bulto de la categoría I-Blanca.
+2.- Materia radiactiva en bulto de la categoría II-Blanca.
+3.- Materia radiactiva en bulto de la categoría II-Amarilla.
+4.- Materia radiactiva en bulto de la categoría III-Amarilla.
+Respuesta: 1
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1158
+Enunciado:
+En los bultos radiactivos, ¿qué etiqueta de peligro no necesita llevar escrito el índice de transporte?
+1.- Todas lo deben llevar indicado.
+2.- Ninguna lo debe llevar indicado.
+3.- La de categoría III-Amarilla.
+4.- La de categoría I-Blanca.
+Respuesta: 4
+Norma: ADR 5.2.2.1.11.2
+
+Identificador: 1159
+Enunciado:
+Cada certificado de aprobación extendido por una autoridad competente para materiales radiactivos en forma especial deberá comprender entre otros:
+1.- Tipo de certificado.
+2.- Firma y cargo del funcionario que extiende el certificado.
+3.- Si la autoridad competente lo considera apropiado, referencia a la identidad del solicitante.
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 6.4.23.11
+
+Identificador: 1160
+Enunciado:
+En general, ¿está permitido llevar materias radiactivas en carga común con objetos de la clase 1?
+1.- No, nunca.
+2.- No, si llevan etiquetas de los modelos 7A, 7B o 7C.
+3.- Sí, siempre.
+4.- Sí, si llevan etiquetas de los modelos 7A, 7B o 7C.
+Respuesta: 2
+Norma: ADR 7.5.2.1
+
+Identificador: 1161
+Enunciado:
+Cada certificado de aprobación extendido por una autoridad competente para materiales radiactivos de baja dispersión deberá comprender entre otros:
+1.- Tipo de certificado.
+2.- Si la autoridad competente lo considera apropiado, referencia a la identidad del expedidor.
+3.- A y B son ciertas.
+4.- Todas son falsas.
+Respuesta: 1
+Norma: ADR 6.4.23.11
+
+Identificador: 1162
+Enunciado:
+¿Cómo se denomina la contaminación radiactiva que no puede ser eliminada de una superficie en condiciones normales de transporte?
+1.- Contaminación transitoria.
+2.- Contaminación no transitoria.
+3.- Contaminación exceptuada.
+4.- Contaminación no exceptuada.
+Respuesta: 2
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1163
+Enunciado:
+En el transporte de materias radiactivas en vehículos cisterna, ¿dónde irán fijadas las etiquetas de peligro?
+1.- En los cuatro costados.
+2.- En ambos lados.
+3.- En la parte trasera.
+4.- En los dos laterales y en la trasera del vehículo.
+Respuesta: 4
+Norma: ADR 5.3.1.4.1
+
+Identificador: 1164
+Enunciado:
+¿En qué categoría se incluirá un bulto transportado mediante acuerdo especial, salvo excepciones?
+1.- Categoría II-AMARILLA.
+2.- Categoría III-AMARILLA.
+3.- Categoría I-AMARILLA.
+4.- Categoría III-AMARILLA o Categoría II-AMARILLA.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1165
+Enunciado:
+Atendiendo al etiquetado, ¿cuáles son las categorías de las materias radiactivas?
+1.- I-Blanca, II-Blanca y III-Amarilla.
+2.- I-Blanca, II-Amarilla y III-Amarilla.
+3.- I-Amarilla, II-Blanca y III-Blanca.
+4.- I-Amarilla, II-Blanca y III-Amarilla.
+Respuesta: 2
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1167
+Enunciado:
+Los bultos exceptuados deberán llevar marcada de manera legible y duradera en el exterior del envase/embalaje la siguiente información:
+1.- El número ONU precedido de las letras "UN".
+2.- La identificación del expedidor o del destinatario, o de ambos.
+3.- Su masa bruta permitida si excede de 50 kg.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 5.1.5.4.1
+
+Identificador: 1168
+Enunciado:
+¿En qué grupo se clasifican los objetos contaminados superficialmente?
+1.- SCO-I y SCO-II.
+2.- SCO-I, SCO-II y SCO - III.
+3.- Categoría I-blanca y Categoría II-amarilla.
+4.- No tiene clasificación.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.2
+
+Identificador: 1169
+Enunciado:
+¿Qué debe indicar cada etiqueta de peligro de los modelos nº 7A, 7B o 7C?
+1.- El peso del embalaje.
+2.- La intensidad de radiación máxima en la superficie del bulto.
+3.- El nivel de contaminación máxima.
+4.- La actividad máxima de los contenidos radiactivos durante el transporte.
+Respuesta: 4
+Norma: ADR 5.2.2.1.11.2
+
+Identificador: 1170
+Enunciado:
+¿Qué entendemos por las disposiciones aprobadas por la autoridad competente, en virtud de las cuales podrán transportarse los envíos que no cumplan todas las disposiciones del ADR aplicables a las materias radiactivas?
+1.- Certificado especial.
+2.- Autorización especial.
+3.- Autorización de envío.
+4.- Certificado de arrumazón.
+Respuesta: 2
+Norma: ADR 1.7.4.1
+
+Identificador: 1171
+Enunciado:
+¿Qué se entiende por SCO?
+1.- Un embalaje específico para materias radiactivas.
+2.- Son las siglas del reglamento que regula las materias radiactivas.
+3.- Objeto contaminado superficialmente.
+4.- Un contenedor específico para materias radiactivas.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.2
+
+Identificador: 1172
+Enunciado:
+En el transporte de materias de la clase 7, ¿a qué nos referimos con tasa de dosis expresada en milisieverts por hora?
+1.- A la dosis ambiental equivalente por unidad de tiempo
+2.- A la actividad específica.
+3.- A la contaminación transitoria.
+4.- A la contaminación no transitoria.
+Respuesta: 1
+Norma: ADR 1.2.1 Letra N
+
+Identificador: 1173
+Enunciado:
+Los emisores alfa cuyo período sea inferior a diez días:
+1.- No están sujetos al ADR.
+2.- Son emisores alfa de alta toxicidad.
+3.- Son emisores alfa de baja toxicidad.
+4.- Todas son falsas.
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1174
+Enunciado:
+El uranio natural:
+1.- No está sujeto al ADR
+2.- Es un emisor alfa de alta toxicidad.
+3.- Es un emisor alfa de baja toxicidad.
+4.- No se admite al transporte.
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1176
+Enunciado:
+El embalaje y su contenido radiactivo tal como se presentan en el momento del transporte, es lo que se entiende por:
+1.- Sobreembalaje.
+2.- Contenedor.
+3.- Bulto.
+4.- Envoltura de confinamiento.
+Respuesta: 3
+Norma: ADR 1.2.1 Letra B
+
+Identificador: 1179
+Enunciado:
+En referencia al transporte de materias radiactivas, ¿qué describe la siguiente definición: conjunto de los componentes del embalaje destinados a contener el material radiactivo durante el transporte?
+1.- Un contenedor.
+2.- Un bulto.
+3.- Un sobreembalaje.
+4.- Un sistema de contención.
+Respuesta: 4
+Norma: ADR 1.2.1 Letra S
+
+Identificador: 1180
+Enunciado:
+¿Quién deberá remitir el informe anual del consejero de seguridad a la Administración?
+1.- Puede remitirlo indistintamente el consejero de seguridad como la empresa para la que presta sus servicios.
+2.- Únicamente el consejero de seguridad de la empresa.
+3.- Únicamente la empresa.
+4.- Cualquier conductor de la empresa.
+Respuesta: 3
+Norma: Real Decreto 97/2014 Artículo 28 b)
+
+Identificador: 1181
+Enunciado:
+En el transporte de materias radiactivas, ¿cómo se denomina la aprobación de un diseño que tiene que otorgar  exclusivamente la autoridad del país de origen del diseño?
+1.- Aprobación única.
+2.- Aprobación unilateral.
+3.- Aprobación exclusiva.
+4.- Aprobación específica.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra A
+
+Identificador: 1182
+Enunciado:
+En el transporte de materias radiactivas, ¿cómo se denomina la aprobación dada tanto por la autoridad competente del país de origen del diseño o de la expedición, como por la de cada uno de los países a través de cuyo territorio deba ser transportado el envío?
+1.- Aprobación unilateral.
+2.- Aprobación multilateral.
+3.- Aprobación múltiple.
+4.- Aprobación exclusiva.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra A
+
+Identificador: 1183
+Enunciado:
+¿Cómo se denomina la contaminación radiactiva que puede ser eliminada de una superficie mediante operaciones normales de transporte?
+1.- Contaminación exceptuada.
+2.- Contaminación no exceptuada.
+3.- Contaminación transitoria.
+4.- Contaminación no transitoria.
+Respuesta: 3
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1184
+Enunciado:
+¿Quién es el obligado a entregar las instrucciones escritas al conductor de un vehículo que transporta materias clase 7?
+1.- Siempre el cargador.
+2.- El cargador por delegación expresa del expedidor.
+3.- El propietario de la mercancía.
+4.- El transportista.
+Respuesta: 4
+Norma: ADR 5.4.3.2
+
+Identificador: 1186
+Enunciado:
+¿Son de aplicación las restricciones al tráfico de mercancías peligrosas a un vehículo cargado con mercancías de la clase 7 por debajo de las cantidades del apartado 1.1.3.6 del ADR? 
+1.- Sí.
+2.- No, con carácter general.
+3.- Sólo el no entrar en las poblaciones.
+4.- Sólo las que afectan al horario de circulación.
+Respuesta: 2
+Norma: Real Decreto 551/2006 Artículo 5.3
+
+Identificador: 1187
+Enunciado:
+¿Qué precisa un conductor de materias peligrosas de la clase 7 para renovar la validez de su Certificado?
+1.- Haber conducido materias peligrosas al menos durante el último año de validez.
+2.- Haber cumplido los 5 años de validez.
+3.- Hacer un curso de reciclaje y pasar el examen correspondiente.
+4.- No haber dejado de conducir materias peligrosas durante más de un año.
+Respuesta: 3
+Norma: ADR 8.2.2.5
+
+Identificador: 1188
+Enunciado:
+El conductor de un vehículo que transporta materias de la clase 7, ¿tendrá prohibido fumar?
+1.- Sólo en sitios señalizados al efecto.
+2.- Durante las manipulaciones, en la proximidad de los vehículos y dentro de ellos. 
+3.- Sí, en cualquier caso.
+4.- Cuando el vehículo, cargado con materias peligrosas, está parado.
+Respuesta: 2
+Norma: ADR 8.3.5
+
+Identificador: 1189
+Enunciado:
+¿Qué excepción se puede permitir en la obligación de tener parado el motor durante la carga o descarga de materias peligrosas de la clase 7?
+1.- Cuando se precise su energía para la operación de carga o descarga.
+2.- Ninguna.
+3.- Cuando la carga o descarga se efectúa por personal especializado.
+4.- Cuando la carga o descarga se efectúa en una zona aislada y vigilada.
+Respuesta: 1
+Norma: ADR 8.3.6
+
+Identificador: 1190
+Enunciado:
+¿Qué indica la marca con flechas de orientación colocadas en un embalaje de la clase 7?
+1.- Una posición para el bulto.
+2.- Peligro de reacción.
+3.- Líquido inflamable.
+4.- Producto tóxico.
+Respuesta: 1
+Norma: ADR 5.2.1.9
+
+Identificador: 1191
+Enunciado:
+¿Qué número mínimo de paneles naranja debe llevar una unidad de transporte cargada con materias de la clase 7?
+1.- Dos.
+2.- Cuatro.
+3.- Los necesarios para que sean bien vistos.
+4.- Al menos uno, en la trasera de la unidad de transporte.
+Respuesta: 1
+Norma: ADR 5.3.2.1
+
+Identificador: 1192
+Enunciado:
+¿Qué documento deberá prever las medidas que deben tomarse para evitar o minimizar los daños en caso de derrame de materias de la clase 7?
+1.- Carta de porte.
+2.- Documento de control.
+3.- Certificado de limpieza.
+4.- Instrucciones escritas.
+Respuesta: 4
+Norma: ADR 5.4.3
+
+Identificador: 1194
+Enunciado:
+¿Quién es el obligado a entregar la carta de porte?
+1.- Siempre el cargador.
+2.- El cargador por delegación expresa del expedidor.
+3.- El propietario de la mercancía.
+4.- La confeccionará el propio transportista.
+Respuesta: 2
+Norma: Real Decreto 551/2006 Artículo 25
+
+Identificador: 1195
+Enunciado:
+El equipo de seguridad que deben llevar los vehículos que transporten mercancías peligrosas de la clase 7 dispondrá de entre otros de:
+1.- Dos calzos por vehículo y una linterna.
+2.- Una señal de advertencia autoportante.
+3.- Por cada miembro de la tripulación, un calzo y una linterna convencional.
+4.- Un calzo por vehículo.
+Respuesta: 4
+Norma: ADR 8.1.5.2
+
+Identificador: 1196
+Enunciado:
+Para un vehículo nuevo destinado al transporte de mercancías peligrosas de la clase 7, ¿a partir de que MMA del vehículo es obligatorio el limitador de velocidad?
+1.- 20 t.
+2.- 12 t.
+3.- 6 t. 
+4.- 3,5 t.
+Respuesta: 4
+Norma: ADR 9.2.1
+
+Identificador: 1197
+Enunciado:
+Todas las etiquetas para materias de la clase 7 deberán tener:
+1.- La forma de un cuadrado colocado sobre un vértice. 
+2.- Unas dimensiones mínimas de 100 mm x 100 mm.
+3.- Si la dimensión del bulto lo exige, las etiquetas podrán tener dimensiones reducidas, siempre que queden bien visible.
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 5.2.2.2.1.1
+
+Identificador: 1198
+Enunciado:
+Todas las etiquetas para materias de la clase 7 deberán tener:
+1.- La forma de un rombo colocado sobre un vértice. 
+2.- Unas dimensiones mínimas de 150 x 150 mm.
+3.- Si la dimensión del vehículo lo exige, las etiquetas podrán tener dimensiones reducidas, siempre que queden bien visible.
+4.- Todas son incorrectas.
+Respuesta: 4
+Norma: ADR 5.2.2.2.1.1
+
+Identificador: 1199
+Enunciado:
+Un transporte cargado con varias mercancías peligrosas de la clase 7, a las que se aplica distintos códigos de paso por túneles, y que circula al amparo de las exenciones del apartado 1.1.3.6 del ADR, ¿qué restricción le será de aplicación?  
+1.- No tiene restricciones ya que está exento.
+2.- La de la materia más restrictiva.
+3.- La de la materia menos restrictiva.
+4.- La media de las restricciones.
+Respuesta: 1
+Norma: ADR 8.6.3.3
+
+Identificador: 1200
+Enunciado:
+¿Cuál es el periodo de validez de la formación del conductor a partir de la fecha en que éste ha superado el examen de formación inicial básica para poder transportar mercancías de la clase 7?
+1.- 3 años.
+2.- 4 años.
+3.- 5 años.
+4.- Ninguna de las anteriores es correcta.
+Respuesta: 3
+Norma: ADR 8.2.2.8.2 
+
+Identificador: 1201
+Enunciado:
+¿Cuál es el periodo de validez de la formación del conductor a partir de la fecha en que éste ha superado el examen de formación integral inicial para poder transportar mercancías de la clase 7?
+1.- 3 años.
+2.- 4 años.
+3.- 5 años.
+4.- Ninguna de las anteriores es correcta.
+Respuesta: 3
+Norma: ADR 8.2.2.8.2 
+
+Identificador: 1202
+Enunciado:
+Según la sección 1.1.3.6 del ADR, ¿qué cantidad máxima se podrá transportar en un mismo vehículo, si transportamos dos mercancías de la clase 7 que pertenecen a la misma categoría de transporte?
+1.- 1.000 kilogramos o litros si son de categoría de transporte 1.
+2.- 1000 kilogramos o litros si son de categoría 2.
+3.- 1000 kilogramos o litros si son se categoría 4.
+4.- Ilimitada si son de categoría 4.
+Respuesta: 4
+Norma: ADR 1.1.3.6.3
+
+Identificador: 1203
+Enunciado:
+De conformidad con la sección 1.1.3.6 del ADR, ¿en qué categoría de transporte se incluirán los envases vacíos sin limpiar que hubiesen transportado materias radiactivas de categoría de transporte diferente a 0?
+1.- En la categoría de transporte 1.
+2.- En la categoría de transporte 2.
+3.- En la categoría de transporte 3.
+4.- En la categoría de transporte 4.
+Respuesta: 4
+Norma: ADR 1.1.3.6.3
+
+Identificador: 1204
+Enunciado:
+¿Cuál es el objeto de la colocación de los paneles de señalización de peligro en un vehículo cargado con mercancías de la clase 7?
+1.- Avisar de que se transportan materias peligrosas.
+2.- Avisar de que el vehículo está cargado.
+3.- Señalar que se transportan materias líquidas peligrosas.
+4.- Señalar que las materias que se transportan son explosivas o inflamables.
+Respuesta: 1
+Norma: Real Decreto 2822/1998, Anexo XI, Apartado V-11
+
+Identificador: 1205
+Enunciado:
+¿De qué tamaño deberán ser como norma general los paneles naranja en los vehículos que transportan mercancías de la clase 7?
+1.- 400 x 400 mm.
+2.- 500 x 400 mm.
+3.- 400 x 300 mm.
+4.- 300 x 300 mm.
+Respuesta: 3
+Norma: ADR 5.3.2.2.1
+
+Identificador: 1206
+Enunciado:
+¿En cuántos grupos se dividen las materias de baja actividad específica?
+1.- En 2.
+2.- En 3.
+3.- En 4.
+4.- En 5.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 1207
+Enunciado:
+¿Cuántas linternas deberá llevar un transporte de mercancías peligrosas de la clase 7 como dotación del vehículo?
+1.- Una linterna.
+2.- Una por cada miembro de la tripulación del vehículo.
+3.- Tantas como vehículos compongan la unidad de transporte.
+4.- No se especifica que se lleven linternas.
+Respuesta: 2
+Norma: ADR 8.1.5.2
+
+Identificador: 1208
+Enunciado:
+¿Cuáles de las siguientes clases de materias no tienen grupo de embalaje?
+1.- Las Clases 3, 8 y 9.
+2.- Las Clases 4.1, 4.2 y 4.3.
+3.- Las Clases 1, 2 y 7.
+4.- Las Clases 6.1, 4.3 y 9.
+Respuesta: 3
+Norma: ADR 2.1.1.3
+
+Identificador: 1209
+Enunciado:
+¿Cómo van situados los números de identificación de peligro de las mercancías peligrosas de la clase 7?
+1.- En la mitad superior del panel.
+2.- En el centro del panel.
+3.- Formando grupos de cuatro cifras.
+4.- Formando dos grupos de números.
+Respuesta: 1
+Norma: ADR 5.3.2.2.2
+
+Identificador: 1210
+Enunciado:
+¿De qué cantidad no deberá sobrepasar la intensidad máxima de radiación en cualquier punto de la superficie exterior de un bulto no transportado en uso exclusivo?
+1.- 1 mSv/h.
+2.- 2 mSv/h.
+3.- 0,1 mSv/h.
+4.- 0,2 mSv/h.
+Respuesta: 2
+Norma: ADR 4.1.9.1.10
+
+Identificador: 1211
+Enunciado:
+¿Se deben conservar los registros de la formación recibida en materia de protección?
+1.- Sí, los debe conservar el centro formador.
+2.- Sí, los debe conservar el trabajador.
+3.- Sí, los debe conservar el empresario. 
+4.- No es necesario.
+Respuesta: 3
+Norma: ADR 1.10.2.4
+
+Identificador: 1212
+Enunciado:
+¿Cuántas cifras tiene el número ONU que se indica en un panel naranja correspondiente a una materia peligrosa de la clase 7?
+1.- Cuatro cifras.
+2.- Seis cifras.
+3.- Dos o tres cifras.
+4.- Cuatro o cinco cifras.
+Respuesta: 1
+Norma: ADR 5.3.2.2.3
+
+Identificador: 1213
+Enunciado:
+¿Cómo deben ser los paneles naranja para los vehículos que transporten mercancías peligrosas de la clase 7?
+1.- De forma cuadrada.
+2.- De forma de rombo.
+3.- Metálicos.
+4.- Rectangulares.
+Respuesta: 4
+Norma: ADR 5.3.2.2.1
+
+Identificador: 1214
+Enunciado:
+¿Qué duración tendrán las sesiones de enseñanza de los cursos de formación para obtener el certificado que habilite para la conducción de vehículos que transporten materias de la clase 7?
+1.- 60 minutos.
+2.- 55 minutos.
+3.- 35 minutos.
+4.- 45 minutos.
+Respuesta: 4
+Norma: ADR 8.2.2.3.6
+
+Identificador: 1215
+Enunciado:
+Como norma general, ¿qué número mínimo de extintores deberá llevar una unidad de transporte cargada con mercancías peligrosas de la clase 7 bajo las exenciones parciales del 1.1.3.6?
+1.- Como mínimo 12 kg de los que al menos uno tendrá una capacidad mínima de 6 kg.
+2.- Como mínimo 8 kg de los que al menos uno tendrá una capacidad mínima de 6 kg.
+3.- 3, con al menos uno de 4 kg de polvo.
+4.- Como mínimo un extintor de 2 kg. 
+Respuesta: 4
+Norma: ADR 8.1.4.2
+
+Identificador: 1216
+Enunciado:
+Las materias tóxicas, ¿pertenecen a la clase 7?  
+1.- Sí.
+2.- No.
+3.- Sólo si se transportan en cisternas.
+4.- Sólo si es materia en estado líquido.
+Respuesta: 2
+Norma: ADR 2.1.1.1
+
+Identificador: 1223
+Enunciado:
+A efectos de embalaje, ¿cuáles son las clases que no disponen de grupo de embalaje?
+1.- Clases 1, 2, 5.2, 6.2 .
+2.- Autorreactivas de la clase 4.1.
+3.- Clase 7.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 2.1.1.3
+
+Identificador: 1227
+Enunciado:
+¿Se puede utilizar una cisterna de plástico reforzado para transportar mercancías peligrosas de la clase 7?
+1.- Sí, en algunos casos.
+2.- Sí, en caso de tratarse de materias no fisionables.
+3.- Sí, pero sólo las materias líquidas.
+4.- No, nunca.
+Respuesta: 4
+Norma: ADR 4.4.1
+
+Identificador: 1229
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 0,06?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1230
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 0,5?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- IIII-AMARILLA.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1231
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 1?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 2
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1232
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 2?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1233
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 5?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1234
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 10?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1235
+Enunciado:
+¿A qué categoría pertenecerá un bulto que contenga materia radiactiva, con un índice de transporte igual a 0?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- I-BLANCA.
+Respuesta: 4
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1236
+Enunciado:
+¿En cuál de los siguientes bultos no se requerirán las flechas de orientación?
+1.- Bultos de tipo IP-2 (BI-2), IP-3 (BI-3).
+2.- Bultos tipo A.
+3.- Bultos tipo B(U), B(M) o C.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1237
+Enunciado:
+¿En cuál de los siguientes bultos no se requerirán las flechas de orientación?
+1.- Bultos de tipo IP-2 (BI-2), IP-3 (BI-3).
+2.- Bultos tipo B(U), B(M) o C.
+3.- A y B son correctas.
+4.- Todas son falsas.
+Respuesta: 3
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1238
+Enunciado:
+¿En cuál de los siguientes bultos no se requerirán las flechas de orientación?
+1.- En recipientes primarios que contengan materias infecciosas de la clase 6.2 de una capacidad máxima de 100 ml.
+2.- Bultos tipo B(U), B(M) o C.
+3.- En envases simples con orificio de ventilación.
+4.- Todas son falsas.
+Respuesta: 2
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1239
+Enunciado:
+Todo conductor que desee obtener el correspondiente certificado para poder conducir un vehículo que transporte mercancías peligrosas de la clase 7, deberá saber que el curso de formación básico deberá incluir, al menos, algunas de las siguientes materias:
+1.- Disposiciones generales aplicables al transporte de mercancías peligrosas.
+2.- Principales tipos de riesgo.
+3.- Manipulación y estiba de bultos.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 8.2.2.3.2
+
+Identificador: 1240
+Enunciado:
+Todo conductor que desee obtener el correspondiente certificado para poder conducir un vehículo que transporte mercancías peligrosas de la clase 7 deberá saber que el curso de formación básico deberá incluir, al menos, algunas de las siguientes materias:
+1.- Informaciones generales relativas a la responsabilidad civil.
+2.- Responsabilidad con la seguridad.
+3.- Información sobre las operaciones de transporte multimodal.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 8.2.2.3.2
+
+Identificador: 1241
+Enunciado:
+¿De quién es la responsabilidad de colocar las etiquetas de peligro en los bultos radiactivos?
+1.- Del fabricante de la materia.
+2.- Del embalador.
+3.- Del transportista.
+4.- Del conductor del vehículo.
+Respuesta: 2
+Norma: ADR 1.4.3.2 Letra b)
+
+Identificador: 1243
+Enunciado:
+De las siguientes opciones, ¿cuál corresponde a una obligación del transportista?
+1.- Asegurarse de que las mercancías peligrosas sean clasificadas y autorizadas al transporte según el ADR.
+2.- Observar las disposiciones sobre el modo de envío y sobre las restricciones de expedición.
+3.- Verificar que los vehículos no se sobrecarguen.
+4.- Regresar con la mercancía rehusada por el destinatario.
+Respuesta: 3
+Norma: ADR 1.4.2.2.1 Letra e)
+
+Identificador: 1244
+Enunciado:
+Todo conductor que desee obtener el correspondiente certificado para poder conducir un vehículo que transporte mercancías peligrosas de la clase 7 deberá saber que el curso de formación básico deberá incluir, al menos, algunas de las siguientes materias:
+1.- Disposiciones especiales relativas a los vehículos.
+2.- Conocimiento teórico general de los distintos dispositivos de llenado y vaciado.
+3.- Objeto y funcionamiento del equipamiento técnico de los vehículos.
+4.- Todas son ciertas.
+Respuesta: 3
+Norma: ADR 8.2.2.3.2
+
+Identificador: 1245
+Enunciado:
+¿Qué se entiende por objeto contaminado en la superficie ((SCO) (OCS))?
+1.- Un objeto sólido que por sí mismo no es radiactivo.
+2.- Un objeto sólido que por sí mismo es radiactivo.
+3.- Una materia líquida que por sí mismo no es radiactiva.
+4.- Una materia líquida que por sí misma no es radiactiva,pero en la que hay disuelta materia radiactiva
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1247
+Enunciado:
+¿De cuántas sesiones teóricas, como mínimo, constará la especialización de materias radiactivas del certificado de conductores?  
+1.- 18.
+2.- 12.
+3.- 8.
+4.- 6.
+Respuesta: 3
+Norma: ADR 8.2.2.4.1
+
+Identificador: 1248
+Enunciado:
+El curso de especialización para el conductor que transporte mercancías de la clase 7 en cisternas, deberá incluir, al menos, algunas de las siguientes materias:
+1.- Disposiciones especiales relativas a los vehículos.
+2.- Conocimiento teórico general de los distintos dispositivos de llenado y vaciado.
+3.- Comportamiento en marcha de los vehículos, incluyendo los movimientos de la carga.
+4.- Todas son ciertas.
+Respuesta: 4
+Norma: ADR 8.2.2.3.3
+
+Identificador: 1249
+Enunciado:
+El curso de especialización para el transporte en cisternas de materias de la clase 7, deberá incluir, al menos, algunas de las siguientes materias:
+1.- Disposiciones especiales relativas a los vehículos.
+2.- Información sobre las operaciones de transporte multimodal.
+3.- Objeto y funcionamiento del equipamiento técnico de los vehículos.
+4.- Todas son ciertas.
+Respuesta: 1
+Norma: ADR 8.2.2.3.3
+
+Identificador: 1250
+Enunciado:
+¿Se puede admitir un transporte a granel de materias de la clase 7 en contenedores?
+1.- Sí, siempre.
+2.- No, nunca.
+3.- Sólo para materias líquidas.
+4.- Sí, cumpliendo ciertas condiciones.
+Respuesta: 4
+Norma: ADR 7.3.3
+
+Identificador: 1251
+Enunciado:
+¿Se puede admitir un transporte a granel de materias de la clase 7 en vehículos?
+1.- Sí, siempre.
+2.- No, como norma general.
+3.- Sólo para materias sólidas. 
+4.- Sí, si son impermeables al agua.
+Respuesta: 2
+Norma: ADR 7.3.3
+
+Identificador: 1252
+Enunciado:
+¿Están prohibidos los embalajes en común de las materias de la clase 7?
+1.- Sí.
+2.- No, si se cumplen las disposiciones del 6.8.
+3.- No, si se cumplen las disposiciones del 4.1.10.4.
+4.- Siempre.
+Respuesta: 3
+Norma: ADR 4.1.10
+
+Identificador: 1254
+Enunciado:
+¿Dónde estará situada la marca de las flechas de orientación en los bultos que contengan materias de la clase 7?
+1.- Sobre una cara.
+2.- Sobre dos lados verticales opuestos.
+3.- Sobre todas las caras laterales.
+4.- Al lado de la etiqueta de peligro.
+Respuesta: 2
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1255
+Enunciado:
+La especialidad de certificado para conducir materias de clase 7, ¿para qué tipos de vehículos sirve?
+1.- Para toda clase de vehículos que transporten materias peligrosas.
+2.- Para los vehículos que transporten materias radiactivas.
+3.- Para vehículos con materias radiactivas y explosivas.
+4.- Para vehículos con materias radiactivas de MMA mayor de 3.500 kg.
+Respuesta: 2
+Norma: ADR 8.2.1
+
+Identificador: 1256
+Enunciado:
+¿Cuál de las siguientes disposiciones se deben verificar antes de la primera expedición de un bulto tipo B(U)? 
+1.- La capacidad de aislamiento.
+2.- La subcriticidad.
+3.- La eficacia del blindaje y su sistema de contención.
+4.- No se requiere verificar nada.
+Respuesta: 3
+Norma: ADR 4.1.9.1.6
+
+Identificador: 1257
+Enunciado:
+¿Cómo debe figurar el código de restricción de túneles correspondiente a la mercancía radiactiva transportada en la carta de porte?
+1.- En mayúsculas dentro de un paréntesis.
+2.- En minúsculas dentro de un paréntesis.
+3.- En mayúsculas ente comillas.
+4.- En minúsculas entre comillas. 
+Respuesta: 1
+Norma: ADR 5.4.1.1.1
+
+Identificador: 1258
+Enunciado:
+En el transporte de materias radiactivas, ¿quién debe proporcionar las instrucciones escritas a la tripulación del vehículo?
+1.- El transportista.
+2.- El expedidor.
+3.- El cargador.
+4.- El fabricante.
+Respuesta: 1
+Norma: ADR 5.4.3.2
+
+Identificador: 1259
+Enunciado:
+¿En qué idioma debe proporcionar el transportista las instrucciones escritas a la tripulación del vehículo?
+1.- En un/os idioma/s que cada miembro pueda leer y comprender.
+2.- En un/os idioma/s que cada miembro pueda leer y comprender y en el del país de origen de la expedición.
+3.- En un/os idioma/s que cada miembro pueda leer y comprender y en el del país de destino de la expedición.
+4.- En un/os idioma/s que cada miembro pueda leer y comprender y en los de los países de origen y destino de la expedición.
+Respuesta: 1
+Norma: ADR 5.4.3.2
+
+Identificador: 1260
+Enunciado:
+¿Dónde deberá llevar el conductor de un vehículo que transporte material radiactivo las instrucciones escritas?
+1.- En la cabina del vehículo, al alcance de la mano.
+2.- En cualquier lugar dentro de la cabina del vehículo.
+3.- Junto con la autorización especial del conductor.
+4.- Junto con el permiso de conducción.
+Respuesta: 1
+Norma: ADR 5.4.3.1
+
+Identificador: 1261
+Enunciado:
+¿En qué idioma se deberá redactar el Certificado de Aprobación?
+1.- En el idioma del país de matriculación.
+2.- En el idioma del país expedidor y, en algunos casos, con traducción del título y las observaciones.
+3.- En inglés y alemán.
+4.- En inglés y francés.
+Respuesta: 2
+Norma: ADR 9.1.3.3
+
+Identificador: 1262
+Enunciado:
+¿Cuáles son los grupos de embalaje asignados para la clase 7?
+1.- I, II y III.
+2.- I y II.
+3.- II y III.
+4.- No existen grupos de embalaje para esta clase
+Respuesta: 4
+Norma: ADR 2.1.1.3
+
+Identificador: 1263
+Enunciado:
+¿Qué etiqueta para las materias de la clase 7 puede ser de 148 x 210 mm?
+1.- Todas las que se deban colocar en una cisterna.
+2.- Todas las que se deban colocar en los vehículos.
+3.- La número 7A
+4.- Ninguna etiqueta de peligro puede tener esas dimensiones.
+Respuesta: 4
+Norma: ADR 5.2.2.2.1.1
+
+Identificador: 1264
+Enunciado:
+La contaminación transitoria sobre la superficie de un bulto con materias radiactivas:
+1.- No está permitido que exista.
+2.- Es sancionable.
+3.- Ha de mantenerse al nivel más bajo posible, sin sobrepasar ciertos límites.
+4.- Ninguna es correcta.
+Respuesta: 3
+Norma: ADR 4.1.9.1.2
+
+Identificador: 1265
+Enunciado:
+¿Existen disposiciones reglamentarias para la descarga de materias peligrosas de la clase 7?
+1.- No.
+2.- Sí.
+3.- Sólo para las materias transportadas en vehículo tipo FL.
+4.- Sólo para las materias transportadas en vehículo tipo FL y OX.
+Respuesta: 2
+Norma: ADR 7.5
+
+Identificador: 1267
+Enunciado:
+¿Qué tienen en común los bultos exceptuados?
+1.- Contienen materias de baja actividad específica.
+2.- Contienen materias fisionables.
+3.- Contiene material radiactivo cuyo nivel de radiación en cualquier punto de la superficie exterior del bulto no excede de 5 µSv/h.
+4.- Contiene material radiactivo cuyo nivel de radiación en cualquier punto de la superficie exterior del bulto no excede de 10 µSv/h.
+Respuesta: 3
+Norma: ADR 2.2.7.2.4.1.2
+
+Identificador: 1268
+Enunciado:
+En un mismo vehículo, el transporte de materias radiactivas:
+1.- Está prohibido su transporte en común con materias corrosivas.
+2.- Está prohibido su transporte en común con materias explosivas.
+3.- Está prohibido su transporte en común con materias inflamables.
+4.- Todas las respuestas anteriores son correctas.
+Respuesta: 2
+Norma: ADR 7.5.2.1
+
+Identificador: 1269
+Enunciado:
+Un material radiactivo en forma especial:
+1.- Es cualquier material con un actividad inferior a A1.
+2.- Es un material radiactivo que se transporta sujeto a acuerdos especiales.
+3.- Es un material que ha superado una serie de ensayos definidos en el ADR y que dispone de un certificado que asevera que lo es.
+4.- Es un material con una actividad inferior a A1 y que ha superado un ensayo de lixiviación
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.3.2
+
+Identificador: 1270
+Enunciado:
+¿Debe aplicar el transportista de material radiactivo lo dispuesto en el programa de aseguramiento de la calidad?
+1.- Sí.
+2.- Sólo si transporta bultos del tipo A, B, C o de sustancias fisionables.
+3.- Sólo cuando expresamente se lo requiera la autoridad competente.
+4.- Sólo si se lo exige el expedidor de la mercancía.
+Respuesta: 1
+Norma: ADR 1.7.3
+
+Identificador: 1271
+Enunciado:
+Las flechas de orientación no se requerirán en:
+1.- Los bultos de tipo IP-1 (BI-1) que contengan materias radiactivas de la clase 7.
+2.- Los bultos de tipo IP-2 (BI-2) y IP-3 (BI-3) que contengan materias radiactivas de la clase 7.
+3.- Los bultos de tipo IP-1 (BI-1) y IP-2 (BI-2) que contengan materias radiactivas de la clase 7.
+4.- En los recipientes criogénicos para gases licuados refrigerados.
+Respuesta: 2
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1272
+Enunciado:
+¿En cuál de los siguientes casos no se requerirán las flechas de orientación?
+1.- En bultos del tipo IP-1 (BI-1).
+2.- En embalajes exteriores que contengan materias infecciosas de la clase 6.2 colocadas en recipientes primarios, cada uno con una capacidad máxima de 50 ml.
+3.- En bultos del tipo IP-1 (BI-1) y IP-2 (BI-2)
+4.- En envases simples con orificio de ventilación.
+Respuesta: 2
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1273
+Enunciado:
+¿En cuál de los siguientes casos no se requerirán las flechas de orientación?
+1.- En bultos del tipo IP-2 (BI-2), IP-3 (BI-3), A, B(U), B(M) o C.
+2.- Embalajes exteriores que contengan materias infecciosas de la clase 6.2 colocadas en recipientes primarios, cada uno con una capacidad máxima de 50 ml.
+3.- Materias radiactivas de la clase 7 en bultos del tipo IP-1 (BI-1) y IP-2 (BI-2)
+4.- A y B son ciertas.
+Respuesta: 4
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1274
+Enunciado:
+¿En cuál de los siguientes casos no se requerirán las flechas de orientación?
+1.- En bultos del tipo IP-2 (BI-2), IP-3 (BI-3), A, B(U), B(M) o C.
+2.- Embalajes exteriores que contengan materias infecciosas de la clase 6.2 colocadas en recipientes primarios, cada uno con una capacidad máxima de 50 ml.
+3.- Embalajes exteriores que contengan los recipientes a presión, con excepción de los recipientes criogénicos.
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 5.2.1.10.2
+
+Identificador: 1275
+Enunciado:
+Cuando un contenedor, cargado con materias de la clase 7, se transporte hacia un puerto marítimo, con el fin de embarcar, ¿qué documento adicional deberá llevar el transporte?
+1.- Certificado de embarque.
+2.- Conocimiento de embarque.
+3.- Permiso de atraque.
+4.- Certificado de arrumazón.
+Respuesta: 4
+Norma: ADR 5.4.2
+
+Identificador: 1276
+Enunciado:
+¿Cuál debe ser la longitud mínima del lado de la placa-etiqueta nº 7D?
+1.- 100 mm. 
+2.- 150 mm.
+3.- 200 mm.
+4.- 250 mm.
+Respuesta: 4
+Norma: ADR 5.3.1.7.2
+
+Identificador: 1277
+Enunciado:
+¿A partir de cuántas horas de corte de las vías públicas, por parte de los servicios de urgencia como consecuencia de un accidente de mercancías peligrosas de la clase 7, serán necesarias para tener que remitir el informe de accidentes?
+1.- Desde el primer momento de la intervención.
+2.- A partir de 1 hora.
+3.- A partir de 2 horas.
+4.- A partir de 3 horas.
+Respuesta: 4
+Norma: ADR 1.8.5.3
+
+Identificador: 1278
+Enunciado:
+¿Cuántos días consecutivos de incapacidad para el trabajo de las víctimas, como mínimo, se requieren para estar obligados a realizar la declaración de sucesos que implica al transporte de mercancías peligrosas?
+1.- 7.
+2.- 5.
+3.- 3.
+4.- 1.
+Respuesta: 3
+Norma: ADR 1.8.5.3
+
+Identificador: 1279
+Enunciado:
+En un vehículo con material médico, mercancías radiactivas y un riesgo subsidiario infeccioso, ¿se puede entrar iluminándose con una linterna que disponga de superficie metálica?
+1.- No.
+2.- Sí.
+3.- Sólo si es estrictamente necesario.
+4.- Sólo en situaciones de emergencia.
+Respuesta: 2
+Norma: ADR 8.5 S3
+
+Identificador: 1280
+Enunciado:
+¿A qué número ONU pertenecen los MATERIALES RADIACTIVOS, BULTO EXCEPTUADO -EMBALAJES/ENVASES VACÍOS?
+1.- Al UN 2908.
+2.- Al UN 0508.
+3.- Al UN 1908.
+4.- Al UN 3329.
+Respuesta: 1
+Norma: ADR 2.2.7.2.1.1
+
+Identificador: 1281
+Enunciado:
+¿Cuántas categorías de túneles existen?
+1.- Dos.
+2.- Tres.
+3.- Cuatro.
+4.- Cinco.
+Respuesta: 4
+Norma: ADR 1.9.5.2.2
+
+Identificador: 1282
+Enunciado:
+¿Dónde debe fijarse la señalización destinada a prohibir el acceso a los túneles de carretera?
+1.- En un emplazamiento donde sea posible elegir un itinerario alternativo
+2.- A la entrada del túnel
+3.- 3 kilómetros antes del túnel
+4.- En un emplazamiento donde sea posible elegir un itinerario alternativo
+Respuesta: 1
+Norma: ADR 1.9.5.3.4
+
+Identificador: 1283
+Enunciado:
+¿Cuál es la más restrictiva de las cinco categorías de túneles que afectan al transporte de mercancías peligrosas?
+1.- La A.
+2.- La A/B.
+3.- La A/E.
+4.- La E.
+Respuesta: 4
+Norma: ADR 1.9.5.2.2
+
+Identificador: 1284
+Enunciado:
+¿Cuántos días mínimo de ingreso hospitalario requieren las víctimas de un accidente de transporte de mercancías peligrosas para que sea obligatorio realizar el informe de accidentes (declaración de sucesos)?
+1.- Desde el primer momento que ingresan en un hospital.
+2.- 1 día como mínimo, si la lesión es debido a un golpe en el vehículo. 
+3.- 1 día como mínimo, si la lesión es debido a la mercancía peligrosa transportada. 
+4.- 3 días como mínimo, con independencia de las causas de la lesión. 
+Respuesta: 3
+Norma: ADR 1.8.5.3
+
+Identificador: 1285
+Enunciado:
+¿Qué cantidad mínima de mercancía peligrosa debe derramarse para que se tenga que presentar el informe de accidentes (declaración de sucesos)?
+1.- Una cantidad inferior a 50 kilogramos o 50 litros si la mercancía pertenece a las categorías de transporte 0 o 1.
+2.- Una cantidad superior a 1.000 kilogramos o 1.000 litros si la mercancía pertenece a las categorías de transporte 2.
+3.- Una cantidad superior a 333 kilogramos o 333 litros si la mercancía pertenece a las categorías de transporte 3.
+4.- Cualquier liberación de materia radiactiva fuera de los bultos.
+Respuesta: 4
+Norma: ADR 1.8.5.3
+
+Identificador: 1286
+Enunciado:
+¿A qué categoría de transporte corresponderá la mercancía transportada si para presentar el parte de accidente (declaración de sucesos) se requiere una pérdida de producto mínimo de 50 kg.?
+1.- A la categoría de transporte 0.
+2.- A la categoría de transporte 2.
+3.- A la categoría de transporte 3.
+4.- A la categoría de transporte 4.
+Respuesta: 1
+Norma: ADR 1.8.5.3
+
+Identificador: 1288
+Enunciado:
+¿Qué debe hacer el consejero de seguridad si con ocasión de un accidente, el conductor necesita ser ingresado en un hospital durante 32 horas? 
+1.- Realizar una declaración de sucesos, si las lesiones son ocasionadas por la mercancía transportada.
+2.- No deberá hacer nada ya que de eso se ocupan las autoridades sanitarias.
+3.- No comunicar el suceso a las autoridades competentes pues el ingreso es inferior a 2 días.
+4.- Inscribir el suceso en el expediente personal del conductor.
+Respuesta: 1
+Norma: ADR 1.8.5.3
+
+Identificador: 1289
+Enunciado:
+Los extintores de las unidades de transporte que transporten mercancías peligrosas serán:
+1.- De tipo A y B.
+2.- De dióxido de carbono.
+3.- Adaptados a las clases de inflamabilidad  A, B y C.
+4.- No está prescrito en el ADR.
+Respuesta: 3
+Norma: ADR 8.1.4
+
+Identificador: 1290
+Enunciado:
+El transporte de una materia radiactiva, ¿cuándo queda excluido de la aplicación del ADR?
+1.- Cuando su actividad específica es inferior al valor de exención definido por el ADR para cada radionucleido.
+2.- Cuando la actividad total en el envío queda por debajo del límite de exención establecido por el ADR para cada radionucleido.
+3.- En ningún caso, el transporte de materias radiactivas siempre debe cumplir las disposiciones del ADR.
+4.- Tanto la respuesta A como la B son correctas.
+Respuesta: 4
+Norma: ADR 2.2.7.1.1
+
+Identificador: 1292
+Enunciado:
+¿Debe aplicar el expedidor-cargador de material radiactivo lo dispuesto en el programa de aseguramiento de la calidad?
+1.- Sólo si transporta bultos del tipo A, B, C o de sustancias fisionables.
+2.- Sólo cuando expresamente se lo requiera la autoridad competente.
+3.- Sólo si se lo exige el transportista.
+4.- Sí.
+Respuesta: 4
+Norma: ADR 1.7.3
+
+Identificador: 1293
+Enunciado:
+De las siguientes opciones, ¿cuál supone una diferencia entre el índice de transporte (IT) y el índice de seguridad respecto a la criticidad (CSI)?
+1.- El IT se utiliza para controlar la exposición a la radiación y el CSI para limitar la acumulación de bultos que contengan sustancias fisionables.
+2.- El IT se utiliza para controlar la acumulación de bultos que contengan sustancias fisionables y el CSI para controlar la exposición a la radiación.
+3.- El IT se aplica a bultos con sustancias fisionables y el CSI a las materias de baja actividad específica LSA (BAE I).
+4.- El IT se puede aplicar a los sobreembalajes y el CSI no.
+Respuesta: 1
+Norma: ADR 1.2.1 Letra I
+
+Identificador: 1294
+Enunciado:
+En exposiciones radiactivas profesionales resultantes de las actividades de transporte, ¿cuándo será necesario proceder a un control individual?
+1.- Cuando se considera que la dosis efectiva superará probablemente entre 1 y 6 mSv al año.
+2.- Cuando se considera que la dosis efectiva superará probablemente los 6 mSv en un año.
+3.- Cuando se considera que la dosis efectiva superará probablemente 10 mSv en un año.
+4.- Siempre.
+Respuesta: 2
+Norma: ADR 1.7.2.4
+
+Identificador: 1295
+Enunciado:
+En exposiciones radiactivas profesionales resultantes de las actividades de transporte, ¿cuándo será necesario aplicar un programa de evaluación de la dosis mediante una vigilancia de los puestos de trabajo?
+1.- Cuando se considera que la dosis efectiva se situará probablemente entre 1 y 6 mSv en un año.
+2.- Cuando se considera que la dosis efectiva se situará probablemente entre 1 y 8 mSv en un año.
+3.- Cuando se considera que la dosis efectiva se situará probablemente entre 1 y 10 mSv en un año.
+4.- Siempre.
+Respuesta: 1
+Norma: ADR 1.7.2.4
+
+Identificador: 1296
+Enunciado:
+¿Requerirá la aprobación multilateral una expedición de bultos que contengan materias fisionables?
+1.- Sí, si la suma de los índices de seguridad respecto a la criticidad de todos los bultos es mayor de 50.
+2.- Sí, si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 50.
+3.- Sí, si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 10.
+4.- Sí, en cualquier caso.
+Respuesta: 2
+Norma: ADR 5.1.5.1.2
+
+Identificador: 1297
+Enunciado:
+Se necesita certificado de aprobación para:
+1.- Materias radiactivas de alta dispersión.
+2.- Bultos que contengan 1 gramo de hexafluoruro de Uranio.
+3.- Bultos del tipo B(U).
+4.- Todas las expediciones de bultos que contengan material fisionable.
+Respuesta: 3
+Norma: ADR 5.1.5.2.1
+
+Identificador: 1298
+Enunciado:
+En un vehículo que realiza un envío en la modalidad de uso exclusivo:
+1.- La suma de los índices de transporte no debe ser superior a 50.
+2.- La suma de los índices de transporte no está limitada.
+3.- La suma de los índices de seguridad con respecto a la criticidad no debe ser superior a 50.
+4.- La intensidad de radiación en cualquier punto de la superficie nunca excederá de 2 mSv/h.
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (3.3)
+
+Identificador: 1299
+Enunciado:
+En un envío bajo la modalidad de uso exclusivo, ¿en qué condiciones se pueden superar los 2 mSv/h en la superficie de los bultos?
+1.- Si el vehículo dispone de un recinto cerrado que impide el acceso a personas no autorizadas.
+2.- Si se ha dispuesto la inmovilización de los bultos durante el transporte.
+3.- Cuando no se vayan a realizar operaciones de carga y descarga entre principio y fin de la expedición.
+4.- Se tienen que cumplir todas las condiciones de las respuestas anteriores.
+Respuesta: 4
+Norma: ADR 7.5.11 CV33 (3.5)
+
+Identificador: 1300
+Enunciado:
+¿Cuál ser la actividad total de un vehículo que transporta OCS?
+1.- No está limitada.
+2.- No será superior a 100 A1.
+3.- No será superior a 100 A2.
+4.- No será superior a 2 mSv/h en cualquier punto de la superficie.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (2)
+
+Identificador: 1301
+Enunciado:
+¿En qué forma se deben presentar las materias LSA-III (BAE-III)?
+1.- Únicamente sólido.
+2.- Únicamente líquido.
+3.- Sólido o líquido.
+4.- Gas.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.1.3
+
+Identificador: 1303
+Enunciado:
+¿Qué requiere el diseño para materias radiactivas en forma especial?
+1.- Una aprobación multilateral.
+2.- Una aprobación unilateral.
+3.- Sólo requiere aprobación multilateral en caso de bultos tipo A y B.
+4.- No requiere aprobación.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.3.1
+
+Identificador: 1304
+Enunciado:
+¿Qué requerirá el diseño de las materias radiactivas de baja dispersión?
+1.- Una aprobación multilateral.
+2.- Una aprobación unilateral.
+3.- Una autorización especial.
+4.- Sólo requiere aprobación multilateral en caso de bultos tipo A y B.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.4.1
+
+Identificador: 1305
+Enunciado:
+¿Qué requisitos deberán cumplir la cantidad total de materias radiactivas en un bulto para que consideren materias radiactivas de baja dispersión?
+1.- El nivel de radiación a 3 m desde el material radiactivo sin protección no pasará de 10 mSv/h.
+2.- El nivel de radiación a 2 m desde el material radiactivo sin protección no pasará de 10 mSv/h
+3.- El nivel de radiación a 2 m desde el material radiactivo sin protección no pasará de 15 mSv/h.
+4.- El nivel de radiación a 3 m desde el material radiactivo sin protección no pasará de 15 mSv/h.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.4.1
+
+Identificador: 1306
+Enunciado:
+La corrosividad y los incendios, ¿son peligros a tener en cuenta en la determinación de la categoría de un túnel?
+1.- Las corrosividad sí, pero no los incendios.
+2.- Los incendios sí, pero no la corrosividad.
+3.- Sí, ambas.
+4.- No, ninguna.
+Respuesta: 2
+Norma: ADR 1.9.5.2.1
+
+Identificador: 1307
+Enunciado:
+¿Qué significa un panel con la letra E situado con anterioridad a la entrada de un túnel?
+1.- Que no pueden pasar  vehículos que transporten mercancías peligrosas, salvo ciertos números ONU.
+2.- Que no pueden pasar vehículos cargados con "Explosivos".
+3.- Que no tiene ninguna restricción.
+4.- No significa nada.
+Respuesta: 1
+Norma: ADR 1.9.5.3.5
+
+Identificador: 1308
+Enunciado:
+Señala la respuesta correcta.
+1.- Los envíos internacionales para los que no es posible respetar alguna de las disposiciones aplicables a la clase 7 requerirán una aprobación multilateral.
+2.- Los envíos nacionales o internacionales para los que no es posible respetar alguna de las disposiciones aplicables a la clase 7 requerirán una aprobación multilateral.
+3.- Para los envíos internacionales para los que no es posible respetar alguna de las disposiciones aplicables a la clase 7 requerirán una aprobación unilateral.
+4.- Los envíos nacionales o internacionales para los que no es posible respetar alguna de las disposiciones aplicables a la clase 7 requerirán necesaria una aprobación unilateral.
+Respuesta: 1
+Norma: ADR 1.7.4.2
+
+Identificador: 1309
+Enunciado:
+En un certificado de aprobación de diseño de un bulto, ¿qué dato debe figurar?
+1.- Datos del expedidor.
+2.- Datos del destinatario.
+3.- Datos del propietario.
+4.- Descripción del sistema de contención.
+Respuesta: 4
+Norma: ADR 6.4.23.14
+
+Identificador: 1310
+Enunciado:
+En un certificado de aprobación de diseño de un bulto para sustancias fisionables, ¿qué dato debe figurar?
+1.- Datos del sistema de aislamiento.
+2.- Datos del expedidor.
+3.- Datos del propietario.
+4.- Datos del destinatario.
+Respuesta: 1
+Norma: ADR 6.4.23.14
+
+Identificador: 1311
+Enunciado:
+Señalar cuál de estas materias se puede considerar como una materia LSA-I (BAE-I).
+1.- Uranio irradiado.
+2.- Torio irradiado.
+3.- Uranio empobrecido no irradiado en estado sólido.
+4.- Uranio empobrecido no irradiado en estado gaseoso.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 1312
+Enunciado:
+¿Qué es la contaminación transitoria (radiactiva)?
+1.- Un fenómeno que produce toxicidad en el ambiente.
+2.- Aquella que puede ser eliminada de una superficie en las condiciones normales de transporte.
+3.- La emisión de partículas alfa.
+4.- Aquella que permanece fija a una superficie sólo en las condiciones normales de transporte.
+Respuesta: 2
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1313
+Enunciado:
+La notificación a las autoridades competentes de un envío, exigida para ciertas expediciones de material radiactivo, se realizará:
+1.- Antes de cruzar la frontera de cada país.
+2.- Obligatoriamente con una semana de antelación.
+3.- Antes del comienzo de la expedición y preferiblemente con siete días de antelación.
+4.- No se determina un plazo determinado.
+Respuesta: 3
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1314
+Enunciado:
+Antes de la primera expedición de un bulto que necesite aprobación, ¿a quién debe enviar el expedidor una notificación? 
+1.- A nadie ya que el bulto ya ha sido aprobado por una Autoridad de un país del ADR.
+2.- A la autoridad competente del país de origen de la expedición y la de cada país a través del o dentro del cual se transporte el envío.
+3.- A las Autoridades Competentes del país de destino.
+4.- A las Autoridades Competentes de los países de origen y destino.
+Respuesta: 2
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1315
+Enunciado:
+Un bulto tipo B(U):
+1.- No puede disponer de sistemas de alivio de presión.
+2.- Debe de disponer de sistemas de alivio de presión.
+3.- Deberá disponer de parasoles.
+4.- Deberá disponer de elementos automáticos de refrigeración.
+Respuesta: 1
+Norma: ADR 6.4.8.11
+
+Identificador: 1316
+Enunciado:
+En un transporte de materias fisionables en el que la suma total de los índices de seguridad con respecto a la criticidad sea 52, ¿qué distancia deberá respetarse con otros vehículos que transporten materias radiactivas?
+1.- Sólo se puede transportar hasta índice 50.
+2.- No se exige una distancia determinada.
+3.- 6 metros como mínimo.
+4.- 5 metros como mínimo.
+Respuesta: 3
+Norma: ADR 7.5.11 CV33 (4.2)
+
+Identificador: 1317
+Enunciado:
+¿Cuál será el límite de la suma de los índices de transporte de los bultos, cargados en un mismo vehículo, en un envío clasificado como LSA-I?
+1.- No está limitado.
+2.- 50.
+3.- 25.
+4.- 5.
+Respuesta: 1
+Norma: ADR 7.5.11 CV33 (3.3)
+
+Identificador: 1318
+Enunciado:
+¿Se podrá transportar viajeros en un vehículo que transporte bultos con la etiqueta I-BLANCA?
+1.- Sólo con el fin de afrontar las medidas de emergencia.
+2.- Sólo si han recibido la formación legalmente establecida.
+3.- No.
+4.- Sí.
+Respuesta: 4
+Norma: ADR 8.5 S6
+
+Identificador: 1319
+Enunciado:
+¿Qué pasa si en una superficie hay 0,3 Bq/cm² de un emisor beta?
+1.- Que existe contaminación radiactiva.
+2.- Que no existe contaminación radiactiva.
+3.- Que sólo puede transportarse según acuerdo especial.
+4.- Que sólo puede transportarse en uso exclusivo.
+Respuesta: 2
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1320
+Enunciado:
+¿Qué pasa si en una superficie hay 0,05 Bq/cm² de un emisor alfa de baja toxicidad?
+1.- Que existe contaminación radiactiva.
+2.- Que no existe contaminación radiactiva.
+3.- Que sólo debe transportarse como bulto exceptuado.
+4.- Qué sólo debe transportarse en un contenedor especial.
+Respuesta: 2
+Norma: ADR 2.2.7.1.2
+
+Identificador: 1321
+Enunciado:
+¿Qué se entiende por bulto exceptuado?
+1.- Un embalaje que contiene materias radiactivas diseñado para cumplir únicamente ciertas disposiciones del ADR.
+2.- Un embalaje que contiene materias radiactivas diseñado para cumplir las disposiciones particulares aplicables a todos los bultos, cisternas y contenedores.
+3.- Un embalaje que contiene materias radiactivas diseñado especialmente para el transporte en uso exclusivo.
+4.- Un embalaje que contiene materias radiactivas diseñado especialmente para el transporte multimodal.
+Respuesta: 1
+Norma: ADR 1.7.1.5
+
+Identificador: 1322
+Enunciado:
+¿Con qué nombre se conoce al uranio que contiene un porcentaje en masa de uranio-235 superior al 0,72%?
+1.- Uranio irradiado.
+2.- Uranio enriquecido.
+3.- Uranio de alta toxicidad.
+4.- Uranio de alta actividad.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1323
+Enunciado:
+¿Cuál es la intensidad máxima de radiación externa permitida a 3 metros de un SCO (OCS) para su transporte en un bulto industrial?
+1.- 1 mSv/h.
+2.- 5 mSv/h.
+3.- 10 mSv/h.
+4.- 15 mSv/h.
+Respuesta: 3
+Norma: ADR 4.1.9.2.1
+
+Identificador: 1324
+Enunciado:
+¿Cuál es la intensidad máxima de radiación externa permitida a 3 metros de una materia de baja actividad específica LSA (BAE) para su transporte en un bulto industrial?
+1.- 1 mSv/h.
+2.- 5 mSv/h.
+3.- 10 mSv/h.
+4.- 15 mSv/h.
+Respuesta: 3
+Norma: ADR 4.1.9.2.1
+
+Identificador: 1325
+Enunciado:
+¿Dónde se localiza la materia radiactiva en un sólido LSA-III?
+1.- En el centro de gravedad.
+2.- En la periferia.
+3.- En todo el sólido.
+4.- A 5 cm. del centro de gravedad.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 1326
+Enunciado:
+Cuando la suma total de los índices de seguridad con respecto a la criticidad en un vehículo exceda de 50, el almacenamiento será tal que garantice una distancia mínima con respecto a otro vehículo que contenga materias radiactivas; esa distancia será de:
+1.- 6 metros.
+2.- 4 metros.
+3.- 2 metros.
+4.- No existe limitación.
+Respuesta: 1
+Norma: ADR 7.5.11 CV33 (4.2)
+
+Identificador: 1327
+Enunciado:
+¿Cómo se limitará el número de bultos que contengan sustancias fisionables almacenados en un mismo lugar?
+1.- No existe limitación.
+2.- La suma de índices de seguridad con respecto a la criticidad, de un mismo grupo de bultos, no exceda de 50.
+3.- La suma de índices de seguridad con respecto a la criticidad, de un mismo grupo de bultos, no exceda de 40.
+4.- La suma de índices de transporte, de un mismo grupo de bultos, no exceda de 50.
+Respuesta: 2
+Norma: ADR 7.5.11 CV33 (4.1)
+
+Identificador: 1328
+Enunciado:
+La tasa de dosis debido a la contaminación no transitoria en la superficie de un vehículo que haya transportado materias radiactivas no deberá sobrepasar antes de utilizarlo:
+1.- 5 µsv/h.
+2.- 0,1 mrem/h.
+3.- 1 µsv/h.
+4.- 0,2 mrem/h.
+Respuesta: 1
+Norma: ADR 7.5.11 CV33 (5.4)
+
+Identificador: 1329
+Enunciado:
+El uranio 233:
+1.- Es un nucleido fisionable.
+2.- No es materia de la clase 7.
+3.- No está admitido al transporte.
+4.- Es una materia no fisionable.
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1330
+Enunciado:
+Para que se considere un transporte como uso exclusivo, ¿conforme a las instrucciones de qué intervinientes se deben realizar las operaciones iníciales, intermedias y finales de carga y descarga?
+1.- Del conductor.
+2.- De la autoridad competente.
+3.- Del cargador / descargador.
+4.- Del remitente o destinatario.
+Respuesta: 4
+Norma: ADR 1.2.1 Letra U
+
+Identificador: 1331
+Enunciado:
+Para que se considere un transporte como uso exclusivo, ¿cuántos expedidores deben intervenir?
+1.- Tantos como tipos de materias transportadas.
+2.- Uno.
+3.- Dos, uno en el origen y otro en el destino.
+4.- Tantos como bultos transportados.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra U
+
+Identificador: 1332
+Enunciado:
+¿Qué cantidad no debe superar la contaminación transitoria sobre la superficie externa de bultos conteniendo emisores alfa de baja toxicidad?
+1.- 0,4 Bq/cm².
+2.- 4 Bq/cm².
+3.- 0,2 Bq/cm².
+4.- 2 Bq/cm².
+Respuesta: 2
+Norma: ADR 4.1.9.1.2
+
+Identificador: 1333
+Enunciado:
+¿Qué cantidad no debe superar la contaminación transitoria sobre la superficie externa de un bulto utilizado para el transporte de emisores gamma?
+1.- 0,4 Bq/cm².
+2.- 4 Bq/cm².
+3.- 40 Bq/cm².
+4.- 400 Bq/cm².
+Respuesta: 2
+Norma: ADR 4.1.9.1.2
+
+Identificador: 1334
+Enunciado:
+¿Qué cantidad no debe superar la contaminación transitoria sobre la superficie externa de un bulto utilizado para el transporte de emisores beta?
+1.- 0,1 Bq/cm².
+2.- 0,2 Bq/cm².
+3.- 0,4 Bq/cm².
+4.- 4 Bq/cm².
+Respuesta: 4
+Norma: ADR 4.1.9.1.2
+
+Identificador: 1335
+Enunciado:
+La temperatura de las superficies accesibles de un bulto del tipo B(U), en uso no exclusivo, será:
+1.- Máximo 38º C.
+2.- Máximo 61º C.
+3.- La que marque el expedidor.
+4.- Máximo 50º C.
+Respuesta: 4
+Norma: ADR 6.4.8.3
+
+Identificador: 1336
+Enunciado:
+¿Qué significa que un bulto tenga un índice de transporte de 5?
+1.- Que no se deben acercar las personas a menos de 5 metros
+2.- Que pesa 5 kg/mSv.
+3.- Que la intensidad máxima de radiación a un metro de la superficie externa del bulto es 0,05 mSv/h.
+4.- Que la intensidad máxima de radiación en cualquier punto de la superficie exterior del bulto es 0,05 mSv/h. 
+Respuesta: 3
+Norma: ADR 5.1.5.3.1
+
+Identificador: 1337
+Enunciado:
+Los minerales que contienen radionucleidos naturales (por ejemplo uranio y torio) y concentrados de uranio o de torio extraídos de dichos materiales son:
+1.- Materias LSA I.
+2.- Materias LSA II .
+3.- Materias LSA III.
+4.- Materias LSA IV.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 1338
+Enunciado:
+El uranio natural es un emisor alfa:
+1.- De baja toxicidad.
+2.- De toxicidad media.
+3.- De alta toxicidad.
+4.- No es emisor alfa.
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1339
+Enunciado:
+El uranio natural:
+1.- Es el uranio aislado químicamente con la misma proporción de isótopos que en estado natural.
+2.- Es un emisor de radiaciones alfa de alta toxicidad.
+3.- Es un emisor de radiaciones beta de baja toxicidad.
+4.- Es un emisor de radiaciones beta de alta toxicidad
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1340
+Enunciado:
+Respecto a las dimensiones de los bultos tipo A para el transporte de materias radiactivas, debemos saber que:
+1.- La menor dimensión exterior del bulto no deberá ser inferior a 10 cm.
+2.- La menor dimensión exterior del bulto no deberá ser inferior a 15 cm.
+3.- La menor dimensión exterior del bulto no deberá ser inferior a 18 cm.
+4.- La menor dimensión exterior del bulto no deberá ser inferior a 20 cm.
+Respuesta: 1
+Norma: ADR 6.4.7.2
+
+Identificador: 1341
+Enunciado:
+Respecto a los bultos tipo A para el transporte de materias radiactivas, deberemos saber que:
+1.- Todo bulto deberá llevar en su parte externa un precinto o sello, que no se rompa fácilmente y que mientras permanezca intacto, sea prueba de que el bulto no ha sido abierto.
+2.- La menor dimensión exterior del bulto no deberá ser inferior a 10 cm.
+3.- A y B son correctas.
+4.- Todas son falsas.
+Respuesta: 3
+Norma: ADR 6.4.7.2 y 6.4.7.3
+
+Identificador: 1342
+Enunciado:
+Respecto a los bultos tipo A para el transporte de materias radiactivas, deberemos saber que:
+1.- Todo bulto deberá llevar en su parte externa un precinto o sello, que no se rompa fácilmente y que mientras permanezca intacto, sea prueba de que el bulto no ha sido abierto.
+2.- La menor dimensión exterior del bulto no deberá ser inferior a 10 cm.
+3.- El sistema de contención deberá retener su contenido radiactivo aun cuando la presión ambiente descienda hasta 60 kPa.
+4.- Todas son correctas
+Respuesta: 4
+Norma: ADR 6.4.7.2, 6.4.7.3 y 6.4.7.11
+
+Identificador: 1343
+Enunciado:
+¿Cómo norma general en qué categoría se clasificará un sobreembalaje en el que se hayan agrupado varios bultos transportados mediante acuerdo especial?
+1.- I-AMARILLA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- IV-BLANCA.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1344
+Enunciado:
+Si un bulto es transportado mediante acuerdo especial se incluirá en la categoría:
+1.- I-BLANCA.
+2.- II-AMARILLA.
+3.- III-AMARILLA.
+4.- III-BLANCA.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4
+
+Identificador: 1345
+Enunciado:
+El torio 228 contenido en un concentrado químico:
+1.- No se considera radiactivo.
+2.- Es un emisor alfa de baja toxicidad.
+3.- Es un emisor alfa de alta toxicidad.
+4.- Sólo se considera radiactivo si se transporta en uso exclusivo.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1346
+Enunciado:
+Según el ADR, ¿cuál es el período mínimo durante el cual el expedidor y el transportista se encuentran obligados a guardar una copia de la carta de porte?
+1.- Tres meses.
+2.- Seis meses.
+3.- Nueve meses.
+4.- Doce meses.
+Respuesta: 1
+Norma: ADR 5.4.4.1
+
+Identificador: 1348
+Enunciado:
+¿Es necesario contar con consejero de seguridad para el transporte de materias de la clase 7?
+1.- Solo si se transportan bultos del tipo B y con sustancias fisionables.
+2.- No, si se transportan menos de 1.000 kg o litros por unidad de transporte.
+3.- Si, salvo para el transporte de bultos exceptuados
+4.- Sí, siempre.
+Respuesta: 3
+Norma: ADR  1.8.3.2 y Real Decreto 97/2014 Capítulo 5
+
+Identificador: 1350
+Enunciado:
+En el caso de sobrepasarse los límites de radiación durante el transporte, el transportista informará a:
+1.- A las autoridades  competentes.
+2.- Al destinatario.
+3.- Al expedidor y a las autoridades competentes.
+4.- Al destinatario y a las autoridades competentes.
+Respuesta: 3
+Norma: ADR 1.7.6.1
+
+Identificador: 1351
+Enunciado:
+¿Cuál será la intensidad de la radiación máxima en cualquier punto de cualquier superficie externa de un bulto o de un sobreembalaje en la modalidad de uso exclusivo?
+1.- Superior a 10 mSv/h.
+2.- No superior a 10 mSv/h.
+3.- No está regulada.
+4.- Todas son falsas.
+Respuesta: 2
+Norma: ADR 4.1.9.1.11
+
+Identificador: 1352
+Enunciado:
+¿Cuál de las siguientes expediciones requiere aprobación multilateral?
+1.- La expedición de bultos que contengan materias fisionables si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 20.
+2.- La expedición de bultos que contengan materias fisionables si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 30.
+3.- La expedición de bultos que contengan materias fisionables si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 40.
+4.- La expedición de bultos que contengan materias fisionables si la suma de los índices de seguridad respecto a la criticidad de los bultos en un solo vehículo o contenedor es mayor que 50.
+Respuesta: 4
+Norma: ADR 5.1.5.1.2
+
+Identificador: 1353
+Enunciado:
+¿Cuándo tendrán las materias de la clase 7 la consideración de materiales radiactivos de alto riesgo?
+1.- Cuando su actividad es igual o superior a un umbral de protección para el transporte de 2000 A2 por bulto.
+2.- Cuando se transporten según la sección 1.1.3.6 del ADR.
+3.- Cuando su actividad es igual o superior a un umbral de protección para el transporte de 3000 A2 por bulto, con la excepción de algunos radionucleidos.
+4.- En cualquier caso.
+Respuesta: 3
+Norma: ADR 1.10.3.1.3
+
+Identificador: 1357
+Enunciado:
+Salvo para los envíos en la modalidad de uso exclusivo, ningún bulto o sobreembalaje tendrá:
+1.- Un IT superior a 10 y un ISC superior a 50.
+2.- Una IT superior a 20 y un ISC superior a 50.
+3.- Un IT superior a 10 y un ISC superior a 30.
+4.- Un IT superior a 15 y un ISC superior a 40.
+Respuesta: 1
+Norma: ADR 4.1.9.1.9
+
+Identificador: 1359
+Enunciado:
+¿Qué significa la letra X delante del número de identificación de peligro de una materia de la clase 7?
+1.- Que reacciona peligrosamente con agua.
+2.- Que es un producto tóxico.
+3.- Que es un producto corrosivo.
+4.- Nunca puede aparecer delante del número de identificación de peligro de una materia de la clase 7.
+Respuesta: 1
+Norma: ADR 5.3.2.3.2 
+
+Identificador: 1360
+Enunciado:
+Además de los documentos requeridos por otros reglamentos, se deberán llevar a bordo de la unidad de transporte de mercancías peligrosas de la clase 7, los documentos siguientes:
+1.- Las instrucciones escritas.
+2.- Carta de porte.
+3.- Un documento de identificación con fotografía por cada miembro de la tripulación.
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 8.1.2.1
+
+Identificador: 1362
+Enunciado:
+¿A cuánto equivalen 5 µSv/h?
+1.- 0,5 mrem/h.
+2.- 5 mrem/h.
+3.- 50 mrem/h.
+4.- 500 mrem/h.
+Respuesta: 1
+Norma: ADR 1.2.2.1
+
+Identificador: 1363
+Enunciado:
+¿A qué equivalen 10 mSv/h?
+1.- A 100 Bq/h.
+2.- A 100 Ci/h.
+3.- A 100 mrem/h.
+4.- A 1.000 mrem/h.
+Respuesta: 4
+Norma: ADR 1.2.2.1
+
+Identificador: 1364
+Enunciado:
+¿A cuántos mrem/h equivalen 2 mSv/h?
+1.- 0,2.
+2.- 2.
+3.- 20.
+4.- 200.
+Respuesta: 4
+Norma: ADR 1.2.2.1
+
+Identificador: 1365
+Enunciado:
+¿Cuál de los siguientes bultos se puede considerar un bulto exceptuado?
+1.- Embalajes vacíos que contuvieron material radiactivo.
+2.- Bultos que contienen artículos manufacturados a partir de uranio natural.
+3.- Bultos que contienen artículos manufacturados a partir de uranio empobrecido. 
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 2.2.7.2.4.1.1
+
+Identificador: 1367
+Enunciado:
+Un aparato contaminado clasificado como Objeto Contaminado en Superficie OCS-II:
+1.- Puede ser transportado en un Bulto Industrial tipo 2 (IP-2)
+2.- Puede ser transportado como bulto exceptuado conteniendo instrumentos o artículos si la tasa de dosis en la superficie del aparato no supera 1 mSv/h.
+3.- Puede ser transportado en un Bulto Industrial tipo 1 (IP-1).
+4.- Puede ser transportado sin embalar, si la contaminación sólo es interna y el vehículo permanece cerrado herméticamente.
+Respuesta: 1
+Norma: ADR 4.1.9.2.4
+
+Identificador: 1368
+Enunciado:
+Si la intensidad de radiación en la superficie de un vehículo es de 10 µSv/h:
+1.- Podrá seguir utilizándose para cualquier transporte de material radiactivo.
+2.- Sólo podrá utilizarse para mercancías peligrosas embaladas.
+3.- Podrá seguir utilizándose si se mantiene a una distancia mínima de 6 m de otros vehículos.
+4.- Debe ser descontaminado cuanto antes por personal cualificado.
+Respuesta: 4
+Norma: ADR 7.5.11 CV33 (5.4)
+
+Identificador: 1369
+Enunciado:
+¿Será obligatorio el curso de especialización para conductores, si transportan bultos radiactivos del tipo A?
+1.- Sí, siempre.
+2.- Sólo para conductores de vehículos con masa máxima admisible (MMA) superior a 3,5 toneladas.
+3.- Será obligatorio si el número total de bultos radiactivos es superior a 10 y si la suma de los índices de transporte en el vehículo es superior a 3.
+4.- Todas son correctas.
+Respuesta: 3
+Norma: ADR 8.5 S12
+
+Identificador: 1371
+Enunciado:
+Los bultos exceptuados deberán llevar marcada de manera legible y duradera en el exterior del envase/embalaje la siguiente información:
+1.- La identificación del expedidor o del destinatario, o de ambos.
+2.- El número UN precedido de las letras "ONU".
+3.- Su masa bruta permitida si excede de 30 kg.
+4.- Todas son correctas.
+Respuesta: 1
+Norma: ADR 5.1.5.4.1
+
+Identificador: 1372
+Enunciado:
+Una materia de baja dispersión:
+1.- No necesita nada especial.
+2.- Sólo necesita un permiso especial si la dispersión no supera ciertos límites.
+3.- Necesita un embalaje tipo B(N).
+4.- Necesita un certificado emitido por la autoridad competente.
+Respuesta: 4
+Norma: ADR 5.1.5.2.1
+
+Identificador: 1373
+Enunciado:
+Cuando, según el índice de transporte de un bulto se le haya de clasificar en una categoría, y según la intensidad de radiación en la superficie en otra distinta, ¿en qué categoría se incluirá el bulto?
+1.- En ninguna.
+2.- En la más baja.
+3.- En la más elevada.
+4.- En las dos.
+Respuesta: 3
+Norma: ADR 5.1.5.3.4 a)
+
+Identificador: 1374
+Enunciado:
+Para poder ser considerado bulto exceptuado, ¿ sería la tasa de dosis máxima en cualquier punto de la superficie de un bulto conteniendo materias radiactivas?
+1.- 50 µSv/h.
+2.- 10 mSv/h.
+3.- 1 mSv/h.
+4.- 5 µSv/h.
+Respuesta: 4
+Norma: ADR 2.2.7.2.4.1.2
+
+Identificador: 1375
+Enunciado:
+Los objetos manufacturados en uranio natural, uranio empobrecido o torio natural, como bultos exceptuados, tendrán una intensidad máxima de radiación en cualquier punto de la superficie exterior del bulto de:
+1.- 5 µSv/h.
+2.- 50 µSv/h.
+3.- 0,1 mSv/h.
+4.- 10 µSv/h.
+Respuesta: 1
+Norma: ADR 2.2.7.2.4.1.2
+
+Identificador: 1376
+Enunciado:
+¿Cuándo debe ser considerada de alto riesgo una materia radiactiva?
+1.- A partir del valor A1.
+2.- A partir del valor 3000 A1 o 3000 A2, según corresponda.
+3.- A partir del valor 1000 A1 o 1000 A2, según corresponda.
+4.- Cuando su actividad es igual o superior a un umbral de protección para el transporte de 3000 A2 por bulto, con la excepción de algunos radionucleidos.
+Respuesta: 4
+Norma: ADR 1.10.3.1.3
+
+Identificador: 1377
+Enunciado:
+Una materia radiactiva, ¿cuándo debe ser considerada de alto riesgo?
+1.- A partir del valor A1.
+2.- A partir del valor A2.
+3.- A partir del valor 3000 A1.
+4.- Cuando su actividad es igual o superior a un umbral de protección para el transporte de 3000 A2 por bulto, salvo algunos radionucleidos.
+Respuesta: 4
+Norma: ADR 1.10.3.1.3
+
+Identificador: 1378
+Enunciado:
+De los siguientes materiales, ¿cuáles no se incluyen en la definición de material fisible?
+1.- El uranio natural o el uranio empobrecido no irradiados.
+2.- El uranio natural o el uranio empobrecido que únicamente hayan sido irradiados en reactores térmicos.
+3.- El uranio enriquecido.
+4.- A y B son ciertas.
+Respuesta: 4
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1379
+Enunciado:
+Se exige una notificación a las autoridades competentes:
+1.- Para toda expedición de bultos del tipo C.
+2.- Para toda expedición de bultos del tipo B(U).
+3.- Para toda expedición de bultos del tipo B(M).
+4.- B y C son correctas.
+Respuesta: 3
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1380
+Enunciado:
+Se exige una notificación a las autoridades competentes:
+1.- Para toda expedición de bultos del tipo A.
+2.- Para toda expedición de bultos del tipo B(U).
+3.- Para toda expedición de bultos del tipo B(M).
+4.- B y C son correctas.
+Respuesta: 3
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1381
+Enunciado:
+Se exige una notificación a las autoridades competentes:
+1.- Para toda expedición de bultos del tipo A.
+2.- Para toda expedición de transporte bajo autorización especial.
+3.- Para toda expedición de bultos del tipo B(M).
+4.- B y C son correctas.
+Respuesta: 4
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1382
+Enunciado:
+Se exige una notificación a las autoridades competentes:
+1.- Para toda expedición de transporte bajo autorización especial.
+2.- Para toda expedición de bultos del tipo B(U).
+3.- Para toda expedición de bultos del tipo C.
+4.- Todas son correctas.
+Respuesta: 1
+Norma: ADR 5.1.5.1.4
+
+Identificador: 1383
+Enunciado:
+¿Qué se requiere para expedir los envíos para los que no es posible respetar alguna de las disposiciones aplicables a la clase 7?
+1.- Que se utilicen bultos tipo A.
+2.- Obtener previamente una autorización especial. 
+3.- Que se utilicen bultos tipo A o C.
+4.- Obtener previamente una autorización multilateral. 
+Respuesta: 2
+Norma: ADR 1.7.4.2
+
+Identificador: 1384
+Enunciado:
+Los bultos del tipo A no deben contener cantidades de actividad superiores a:
+1.- A1 para las otras materias radiactivas.
+2.- A2 para las materias radiactivas en forma especial
+3.- A1 para las materias radiactivas en forma especial; 
+4.- A 200 Bq.
+Respuesta: 3
+Norma: ADR 2.2.7.2.4.4
+
+Identificador: 1386
+Enunciado:
+Un bulto del tipo A para contenido líquido:
+1.- Debe superar un ensayo térmico.
+2.- Debe superar un ensayo de estanqueidad.
+3.- Debe superar un ensayo de caída desde 9 metros.
+4.- Debe superar un ensayo de presión externa.
+Respuesta: 3
+Norma: ADR 6.4.7.16
+
+Identificador: 1387
+Enunciado:
+En un accidente en el que se produce un daño estructural de un recinto de contención de un bulto radiactivo, sin pérdida de producto, pero siendo necesario realizar trasvase de la mercancía, ¿se debe realizar el informe de accidente?
+1.- No, ya que no se produce pérdida de producto. 
+2.- Sí.
+3.- Sólo si lo requieren las autoridades competentes.
+4.- Sí se realizará, pero el correspondiente a Protección Civil.
+Respuesta: 2
+Norma: ADR 1.8.5.3
+
+Identificador: 1388
+Enunciado:
+A efectos de elaborar el informe de accidentes, ¿qué cantidad debe sobrepasar el importe estimado de los daños producidos por la mercancía peligrosa derramada para entender que ha habido daño material?
+1.- 50.000 euros, incluidos los daños del vehículo.
+2.- 50.000 euros, incluidos los daños de la carretera.
+3.- 50.000 euros, incluidos los daños al vehículo y a la carretera.
+4.- 50.000 euros, sin tener en cuenta los daños producidos a la carretera y/o al vehículo.
+Respuesta: 4
+Norma: ADR 1.8.5.3
+
+Identificador: 1389
+Enunciado:
+Los bultos exceptuados deberán llevar marcada de manera legible y duradera en el exterior del envase/embalaje la siguiente información:
+1.- La identificación del expedidor o del destinatario, o de ambos.
+2.- El número UN precedido de las letras "ONU".
+3.- Su masa bruta permitida si excede de 30 kg.
+4.- A y B son ciertas.
+Respuesta: 1
+Norma: ADR 5.1.5.4.1
+
+Identificador: 1390
+Enunciado:
+¿Cuál de las siguientes expediciones requiere aprobación multilateral?
+1.- Cualquier expedición de bultos del tipo B(M).
+2.- Una expedición de bultos del tipo B(M) que contengan materiales radiactivos cuya actividad sea superior a 1000 TBq.
+3.- Una expedición de bultos del tipo B(U) que contengan materiales radiactivos cuya actividad sea superior a 3000 TBq.
+4.- Cualquier expedición de bultos que contengan materias fisionables.
+Respuesta: 2
+Norma: ADR 5.1.5.1.2
+
+Identificador: 1391
+Enunciado:
+Los materiales radiactivos de baja dispersión:
+1.- Requieren aprobación unilateral.
+2.- Requieren aprobación multilateral. 
+3.- Sólo requieren aprobación cuando se transportan por vía aérea.
+4.- Requieren aprobación multilateral sólo cuando se transportan en un bulto del tipo B(M).
+Respuesta: 2
+Norma: ADR 6.4.22.2
+
+Identificador: 1395
+Enunciado:
+¿Qué temperatura no debe sobrepasarse en la superficie de un bulto del tipo B(U) o B(M) bajo uso exclusivo, durante el transporte?
+1.- 60 ºC.
+2.- 75 ºC.
+3.- 85 ºC.
+4.- 95 ºC.
+Respuesta: 3
+Norma: ADR 6.4.8.4
+
+Identificador: 1396
+Enunciado:
+¿Que dosis de radiación se debe tener en cuenta para el cálculo de la separación de los bultos con las personas?
+1.- 5 mSv/año.
+2.- 5 mSv/hora.
+3.- 5 mSv/seg.
+4.- 5 mSv/día.
+Respuesta: 1
+Norma: ADR 7.5.11 CV33 (1.1)
+
+Identificador: 1398
+Enunciado:
+¿Cuál será el límite de flujo térmico medio en la superficie de un bulto, con materias radiactivas, a partir del cual deberán tomarse precauciones con respecto al resto del envío?
+1.- 10 W/m2.
+2.- 0,5 mSv/h.
+3.- 5 mSv/m2.
+4.- 15 W/m2.
+Respuesta: 4
+Norma: ADR 7.5.11 CV33 (3.2)
+
+Identificador: 1399
+Enunciado:
+¿Cuándo un bulto se clasifica en el Tipo B(M)?
+1.- Cuando contiene actividades mayores a las autorizadas para el modelo de bulto.
+2.- Cuando contiene radionucleidos diferentes de los autorizados para el modelo de bulto.
+3.- Cuando no contiene materias en una forma o en un estado físico o químico diferentes de los autorizados para el modelo de bulto.
+4.- Ninguna es correcta.
+Respuesta: 3
+Norma: ADR 2.2.7.2.4.6.3
+
+Identificador: 1400
+Enunciado:
+De las siguientes opciones, ¿cuál no se debe contener en los bultos que contengan hexafluoruro de uranio?
+1.- Hexafluoruro de uranio a una presión interna inferior a la presión atmosférica.
+2.- Hexafluoruro de uranio a una presión interna superior a la presión atmosférica.
+3.- Hexafluoruro de uranio en estado sólido.
+4.- Una masa de hexafluoruro de uranio autorizada.
+Respuesta: 2
+Norma: ADR 2.2.7.2.4.5.1
+
+Identificador: 1405
+Enunciado:
+El hexafluoruro de uranio:
+1.- No es materia de la clase 7.
+2.- No es admitido para el transporte en cisternas.
+3.- Pertenece a la Ficha 4.
+4.- Podrá transportase en contenedores-cisterna.
+Respuesta: 2
+Norma: ADR 3.2.1 Tabla A Columna 12
+
+Identificador: 1406
+Enunciado:
+¿Qué se entiende por torio no irradiado?
+1.- El torio que no contiene más de 10-7 gramos de uranio 235 por gramo de torio 232.
+2.- El torio que no contiene más de 10-7 gramos de uranio 233 por gramo de torio 232.
+3.- El torio que no contiene más de 10-7 gramos de torio 228 por gramo de torio 230.
+4.- El torio que no contiene más de 10-7 gramos de torio 230 por uranio 232.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1407
+Enunciado:
+¿Qué se entiende por uranio empobrecido?
+1.- Uranio que contiene un porcentaje en masa de uranio-235 inferior al del uranio natural. 
+2.- uranio que contiene un porcentaje en masa de uranio-235 superior al del uranio natural. 
+3.- Uranio que contiene un porcentaje en masa de uranio-235 igual o inferior al del uranio natural. 
+4.- Uranio que contiene un porcentaje en masa de uranio-235 igual o superior al del uranio natural. 
+Respuesta: 1
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1408
+Enunciado:
+¿Cuáles de las siguientes materias son emisores alfa cuyo período es inferior a diez días?
+1.- El uranio enriquecido.
+2.- Uranio empobrecido.
+3.- Uranio 233.
+4.- Plutonio 239.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1411
+Enunciado:
+¿Cuáles de las siguientes materias son emisores alfa de alta toxicidad?
+1.- El uranio natural.
+2.- Uranio 235.
+3.- Torio natural.
+4.- Todas son falsas.
+Respuesta: 4
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1412
+Enunciado:
+¿Cuáles de las siguientes materias son nucleidos fisionable? 
+1.- Uranio 238.
+2.- Plutonio 241.
+3.- Torio 228.
+4.- Uranio natural.
+Respuesta: 2
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1413
+Enunciado:
+¿Cuáles de las siguientes materias no son nucleidos fisionable? 
+1.- Uranio 233.
+2.- Plutonio 241.
+3.- Uranio 238.
+4.- Uranio 235.
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 1416
+Enunciado:
+¿Qué etiqueta llevará el índice de seguridad con respecto a la criticidad (ISC) indicado en el certificado de aprobación de la autorización especial o el certificado de aprobación del modelo de bulto concedido por la autoridad competente?
+1.- Ninguna.
+2.- Todas.
+3.- La 7A, 7B y 7C.
+4.- La 7E.
+Respuesta: 4
+Norma: ADR 5.2.2.1.11.3
+
+Identificador: 1417
+Enunciado:
+¿Qué etiqueta llevará el índice de seguridad con respecto a la criticidad (ISC) indicado en el certificado de aprobación de la autorización especial o el certificado de aprobación del modelo de bulto concedido por la autoridad competente?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- 7E.
+Respuesta: 4
+Norma: ADR 5.2.2.1.11.3
+
+Identificador: 1419
+Enunciado:
+¿Qué etiqueta llevará el índice de seguridad con respecto a la criticidad (ISC) indicado en el certificado de aprobación de la autorización especial o el certificado de aprobación del modelo de bulto concedido por la autoridad competente?
+1.- 7A.
+2.- 7B.
+3.- 7E.
+4.- Todas son falsas.
+Respuesta: 3
+Norma: ADR 5.2.2.1.11.3
+
+Identificador: 1420
+Enunciado:
+¿Qué etiqueta debe llevar el siguiente texto (obligatorio), en negro en la parte superior de la etiqueta: FISSILE?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- Todas son falsas.
+Respuesta: 4
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1421
+Enunciado:
+¿Qué etiqueta debe llevar el siguiente texto (obligatorio), en negro en la parte superior de la etiqueta: FISSILE?
+1.- 7A.
+2.- 7B.
+3.- 7C.
+4.- 7E.
+Respuesta: 4
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1422
+Enunciado:
+¿Qué etiqueta debe llevar el siguiente texto (obligatorio), en negro en la parte superior de la etiqueta: FISSILE?
+1.- Ninguna.
+2.- Todas.
+3.- La 7A, 7B y 7C.
+4.- 7E.
+Respuesta: 4
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1423
+Enunciado:
+¿Qué etiqueta debe llevar el siguiente texto (obligatorio), en negro en la parte superior de la etiqueta: FISSILE?
+1.- Ninguna.
+2.- Todas.
+3.- La 7A, 7B y 7C.
+4.- Todas son falsas.
+Respuesta: 4
+Norma: ADR 5.2.2.2.2 Clase 7
+
+Identificador: 1424
+Enunciado:
+¿Qué se entiende por torio no irradiado?
+1.- Torio que no ha sido sometido a irradiación.
+2.- Torio tal y como se encuentra en la naturaleza.
+3.- Torio que no contenga más de 10-7 gramos de uranio 233 por gramo de torio 232.
+4.- Torio que no contenga más de 10-10 gramos de uranio 233 por gramo de torio 232.
+Respuesta: 3
+Norma: ADR 2.2.7.1.3
+
+Identificador: 2258
+Enunciado:
+¿A qué materia se aplica el código que empieza con las letras CV en la columna 18 de la Tabla A del ADR?
+1.- Al transporte a granel.
+2.- Al transporte en bultos.
+3.- Al uso de las cisternas.
+4.- A la carga y descarga.
+Respuesta: 4
+Norma: ADR 3.2.1 Columna 18
+
+Identificador: 2363
+Enunciado:
+¿Qué indica el grupo de embalaje?
+1.- El estado físico de la mercancía peligrosa transportada.
+2.- El grado de peligrosidad de la mercancía peligrosa transportada.
+3.- La incompatibilidad de las mercancías peligrosas transportadas.
+4.- El grado de toxicidad de la mercancía peligrosa transportada.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra G
+
+Identificador: 2458
+Enunciado:
+Los bultos que contengan materias radiactivas, deben estar separados durante el transporte cumpliendo las disposiciones del ADR:
+1.- De los trabajadores que ocupan de manera regular las zonas de trabajo.
+2.- De las personas que formen parte de una población critica de público, en las zonas normalmente accesibles al público.
+3.- De las películas fotográficas sin revelar y de las sacas de correos.
+4.- En todos los casos especificados en las respuestas anteriores.
+Respuesta: 3
+Norma: ADR 7.5.11 CV 33 (1.1)
+
+Identificador: 2814
+Enunciado:
+¿Cuál es la capacidad que debe tener una cisterna que está fijada sobre un vehículo?
+1.- Superior a 450 litros.
+2.- Superior a 1.000 litros.
+3.- Superior a 3.000 litros.
+4.- Superior a 1.500 litros.
+Respuesta: 2
+Norma: ADR 1.2.1 Letra C
+
+Identificador: 3214
+Enunciado:
+De las siguientes acciones, ¿cuál se corresponde con una acción de reparación de un GRG?
+1.- Sustitución del recipiente interior rígido de un GRG compuesto por un recipiente tipo original.
+2.- Mantenimiento rutinario de un GRG.
+3.- La limpieza de un GRG.
+4.- Sustitución de los cierres de un GRG.
+Respuesta: 1
+Norma: ADR 1.2.1 Letra G
+
+Identificador: 3241
+Enunciado:
+¿Cuándo se encuentra exento de cumplir el ADR el transporte efectuado por las autoridades competentes para las intervenciones de emergencia?
+1.- Cuando sea para contener las mercancías peligrosas implicadas en un accidente.
+2.- Cuando sea  para recuperar las mercancías peligrosas implicadas en un accidente.
+3.- Cuando sea para desplazar a lugar seguro las mercancías peligrosas implicadas en un accidente.
+4.- En los tres casos anteriores.
+Respuesta: 4
+Norma: ADR 1.1.3.1 Letra d)
+
+Identificador: 3338
+Enunciado:
+¿Cuál de los siguientes supuestos es una reacción peligrosa?
+1.- La emanación de gases comburentes.
+2.- La formación de materias insensibles.
+3.- Un descenso peligroso de la presión.
+4.- La respuesta A y C son ciertas.
+Respuesta: 1
+Norma: ADR 1.2.1 Letra R
+
+Identificador: 3831
+Enunciado:
+De las siguientes materias, ¿cuáles se encuentran reguladas en el Anexo B del ADR? 
+1.- Las mercancías peligrosas cuyo transporte internacional queda excluido.
+2.- Las disposiciones relativas a la construcción y a la aprobación de los vehículos.
+3.- La utilización de las cisternas, incluido su llenado.
+4.- La utilización de los medios de transporte, incluida la carga, la carga en común y la descarga.
+Respuesta: 2
+Norma: ADR 1.1.2.3
+
+Identificador: 3832
+Enunciado:
+¿Existen exenciones a las disposiciones del ADR relacionadas con la naturaleza de la operación de transporte?
+1.- Sí, en el 1.1.3.1.
+2.- Sí, pero sólo afecta a determinadas disposiciones del ADR.
+3.- No, el ADR no contempla exenciones totales de sus disposiciones.
+4.- No, las exenciones sólo se aplican en función de las cantidades de mercancía transportada.
+Respuesta: 1
+Norma: ADR 1.1.3.1
+
+Identificador: 3833
+Enunciado:
+¿Qué disposiciones del ADR deberá cumplir una empresa que transporta mercancías peligrosas para trabajos de medición, de reparaciones y de mantenimiento?
+1.- Todas, si se trata de materia de la clase 7. 
+2.- Las correspondientes al vehículo que realiza el transporte.
+3.- Las correspondientes a la señalización y etiquetado.
+4.- Ninguna, si se trata de material radiactivo.
+Respuesta: 1
+Norma: ADR 1.1.3.1 Letra c)
+
+Identificador: 3834
+Enunciado:
+Si transportamos 1.001 kg del número ONU 2908 (categoría de transporte 4), ¿qué disposiciones del ADR no es necesario que cumpla su transporte?
+1.- Las disposiciones referentes a la carta de porte e instrucciones escritas.
+2.- Las disposiciones relativas a la carga, descarga y manipulación de las mercancías.
+3.- Las disposiciones relativas a la construcción y aprobación de los vehículos y las relativas al panel naranja.
+4.- Las disposiciones de la carta de porte y señalización de los bultos.
+Respuesta: 3
+Norma: ADR 1.1.3.6
+
+Identificador: 3835
+Enunciado:
+¿A qué categoría de transporte corresponden las mercancías peligrosas transportadas en un vehículo, si para determinar la aplicación de la exención 1.1.3.6 del ADR, se han multiplicado las cantidades de las mercancías por 3 y por 50?
+1.- A la categoría 1 y 2, respectivamente.
+2.- A la categoría 2 y 4, respectivamente.
+3.- A la categoría 3 y 1, respectivamente.
+4.- A la categoría 2 y 1, respectivamente.
+Respuesta: 4
+Norma: ADR 1.1.3.6.4
+
+Identificador: 3836
+Enunciado:
+Junto a las exenciones contenidas en el capítulo 1.1. del ADR, ¿en qué otra sección se pueden encontrar exenciones particulares para la clase 7?
+1.- En la sección 1.6. 
+2.- En la sección 1.7.1.4.
+3.- En la sección 2.2.7. 
+4.- Fuera del capítulo 1.1 no hay exenciones.
+Respuesta: 2
+Norma: ADR 1.1.3.1 Nota, ADR 1.1.3.4 Nota y ADR 1.7.1.4
+
+Identificador: 3837
+Enunciado:
+¿Cuál de los siguientes transportes no deberá cumplir con las disposiciones del ADR?
+1.- El transporte de cualquier cantidad de materia del número ONU 2911 (categoría de transporte 4).
+2.- El transporte de mercancía peligrosa efectuado por empresas de ingeniería civil para su distribución interna.
+3.- El transporte del carburante contenido en los depósitos de un vehículo que sirva para el funcionamiento de alguno de sus equipos, si no excede de 1.500 l.
+4.- El transporte de mercancías peligrosas efectuado por particulares en GRG. 
+Respuesta: 3
+Norma: ADR 1.1.3.3 Letra a)
+
+Identificador: 3838
+Enunciado:
+Se transportan 3.000 kg del número ONU 2909 junto con 1.000 kg del número ONU 3476 (clase 4.3) al amparo de la exención 1.1.3.6. ¿A qué categoría de transporte corresponden cada una de las mercancías?
+1.- El número ONU 2909, a la categoría de transporte 4, y el número ONU 3476, a la categoría de transporte 2.
+2.- El número ONU 2909, a la categoría de transporte 4, y el número ONU 3476, a la categoría de transporte 3.
+3.- El número ONU 2909, a la categoría de transporte 2, y el número ONU 3476, a la categoría de transporte 1.
+4.- El número ONU 2909, a la categoría de transporte 0, y el número ONU 3476, a la categoría de transporte 3.
+Respuesta: 2
+Norma: ADR 1.1.3.6
+
+Identificador: 3839
+Enunciado:
+¿Qué partes constituyen el Anejo A del ADR?
+1.- De la Parte 1 a la 7.
+2.- Las Partes 8 y 9.
+3.- De la parte 7 a la 9.
+4.- De la parte 1 a la 5.
+Respuesta: 1
+Norma: ADR 1.1.1
+
+Identificador: 3840
+Enunciado:
+¿En qué Anejo del ADR se encuentra el capítulo 5.2?
+1.- En el Anejo I.
+2.- En el Anejo A.
+3.- En el Anejo II.
+4.- En el Anejo B.
+Respuesta: 2
+Norma: ADR Índice 
+
+Identificador: 3841
+Enunciado:
+¿En qué capítulo del ADR se pueden observar los tipos de bultos de materias de la clase 7?
+1.- En el capítulo 2.1.
+2.- En el capítulo 3.3.
+3.- En el capítulo 4.1.
+4.- En el capítulo 6.4.
+Respuesta: 3
+Norma: ADR Índice y ADR 4.1.9
+
+Identificador: 3842
+Enunciado:
+Señala la respuesta incorrecta.
+1.- La Parte 1 del ADR regula entre otras materias, el campo de aplicación, las exenciones y las obligaciones de seguridad de los participantes.
+2.- En el capítulo 3.2 se encuentra la lista de mercancías peligrosas.
+3.- Las disposiciones relativas a las instrucciones escritas se encuentran en la sección 5.4.3.
+4.- En el capítulo 8.2 se regulan las disposiciones relativas a los medios de extinción de incendios que debe llevar la unidad de transporte.
+Respuesta: 4
+Norma: ADR Índice y Parte 8
+
+Identificador: 3843
+Enunciado:
+¿Pueden las partes contrates convenir acuerdos para una aplicación menos rigurosa que los exigidos por el ADR?
+1.- Sí, bajo determinadas condiciones.
+2.- Sí, pero sólo mediante acuerdo bilaterales.
+3.- Sí, pero requiere la autorización del Secretario General de la Organización de las Naciones Unidas.
+4.- No, ya que el ADR es un acuerdo de mínimos.
+Respuesta: 1
+Norma: ADR Artículo 4.3
+
+Identificador: 3844
+Enunciado:
+¿Se puede reparar el cuerpo de un GRG de plástico rígido?
+1.- Sí.
+2.- Sólo en el caso de haber recibido un golpe menor.
+3.- Depende de los daños que tenga.
+4.- No.
+Respuesta: 4
+Norma: ADR 1.2.1 Letra G
+
+Identificador: 3845
+Enunciado:
+¿Qué conceptos comprende la palabra contenedor?
+1.- Embalajes habituales.
+2.- GRG.
+3.- Contenedores cisternas
+4.- Ninguno de los anteriores.
+Respuesta: 4
+Norma: ADR 1.2.1 Letra C Nota
+
+Identificador: 3846
+Enunciado:
+¿El ADR regula la formación de las personas que intervienen en el transporte de las mercancías peligrosas?
+1.- Sí, pero solamente la referente a los consejeros de seguridad.
+2.- Sí, pero solamente la formación de los conductores.
+3.- Sí, estableciendo además su contenido.
+4.- No.
+Respuesta: 3
+Norma: ADR 1.3.1
+
+Identificador: 3847
+Enunciado:
+¿Cuáles de las siguientes materias constituyen parte del contenido de la formación relativa a los empleados de las personas intervinientes en el transporte de mercancías peligrosas? 
+1.- Protección del transporte de mercancías peligrosas.
+2.- Prevención de riesgos laborales.
+3.- Primeros auxilios.
+4.- Todas las anteriores.
+Respuesta: 1
+Norma: ADR 1.3.1
+
+Identificador: 3848
+Enunciado:
+¿Cuánto tiempo debe conservar el consejero de seguridad los registro de la formación recibida por los empleados de las personas que intervienen en el transporte de mercancías peligrosas?
+1.- 1 año.
+2.- 5 años.
+3.- El tiempo que determine la autoridad competente.
+4.- El tiempo que determine la autoridad competente, pero el deber le corresponde al empresario y no al consejero de seguridad.
+Respuesta: 4
+Norma: ADR 1.3.3
+
+Identificador: 3849
+Enunciado:
+¿Deberá tomar medidas adecuadas para evitar daños en el transporte de mercancías peligrosas el descargador que participa en la operación de transporte?
+1.- No, las deberá tomar el expedidor.
+2.- No, las deberá tomar el transportista.
+3.- No, las deberán tomar el expedidor y el transportista.
+4.- Sí, según la naturaleza y amplitud de los peligros previsibles.
+Respuesta: 4
+Norma: ADR 1.4.1.1
+
+Identificador: 3850
+Enunciado:
+¿Cuál de las siguientes obligaciones corresponde al descargador?
+1.- Asegurar el cierre de las válvulas y aberturas de inspección.
+2.- Retirar los restos peligrosos que pueden haberse adherido al vehículo.
+3.- Asegurar que se lleva a cabo la limpieza y descontaminación de los vehículo o contenedores.
+4.- Todas las anteriores.
+Respuesta: 4
+Norma: ADR 1.4.3.7.1 
+
+Identificador: 3851
+Enunciado:
+¿Cuál de las siguientes responsabilidades corresponde al explotador de una cisterna portátil?
+1.- Asegurarse de que las mercancías peligrosas sean clasificadas y autorizadas al transporte según el ADR.
+2.- Observar las disposiciones sobre el modo de envío y sobre las restricciones de expedición.
+3.- Verificar que no se sobrecarguen.
+4.- Observar las disposiciones relativas a la construcción, al equipo, a las pruebas y al marcado.
+Respuesta: 4
+Norma: ADR 1.4.3.4 Letra a)
+
+Identificador: 3852
+Enunciado:
+¿Sobre cuál de las siguientes materias, el expedidor, el cargador y el transportista tienen parte de responsabilidad?
+1.- Que la mercancía peligrosa está autorizada para el transporte.
+2.- Sobre la disposición del equipo prescrito en las instrucciones escritas.
+3.- Respetar las prohibiciones de carga en común.
+4.- En ninguna.
+Respuesta: 1
+Norma: ADR 1.4.2.1.1 a), 1.4.2.2.1 a) y 1.4.3.1.1 a)
+
+Identificador: 3853
+Enunciado:
+De las siguientes responsabilidades del transportista, ¿en cuál de ellas puede confiar de la información proporcionada por otro participante?
+1.- En las referidas a la comprobación de que los equipos indicados en las instrucciones escritas para el conductor se encuentren a bordo del vehículo.
+2.- En las referidas a la colocación de las etiquetas de peligro y las señalizaciones prescritas para los vehículos.
+3.- En las referidas a la comprobación visual de que los vehículos y la carga no presenten defectos manifiestos, escapes o fisuras.
+4.- Todas las anteriores.
+Respuesta: 2
+Norma: ADR 1.4.2.2.2
+
+Identificador: 3854
+Enunciado:
+¿Las autorizaciones especiales aplicables a las materias radiactivas se consideran derogación temporal a efectos del ADR?
+1.- No.
+2.- Sí.
+3.- Sí, si se aplica a todos los envíos de una determinada materia.
+4.- Depende de las disposiciones del ADR que no cumpla el transporte bajo autorización especial.
+Respuesta: 1
+Norma: ADR 1.5.1.1 Nota
+
+Identificador: 3855
+Enunciado:
+¿Hasta qué fecha se puede seguir realizando transportes de materias radiactivas de conformidad a las disposiciones del ADR 2013?
+1.- Hasta el 31 de diciembre de 2012.
+2.- Hasta el 30 de junio de 2015.
+3.- Hasta el 1 de enero de 2013.
+4.- Hasta el 30 de junio de 2015.
+Respuesta: 2
+Norma: ADR 1.6.1.1
+
+Identificador: 3856
+Enunciado:
+¿Qué es el programa de protección radiológica?
+1.- Un conjunto de medias técnicas cuyo objetivo es atenuar las consecuencias de la no conformidad de un bulto radiactivo. 
+2.- Un programa sistemático de controles y de inspecciones aplicado por toda organización o todo organismo y dirigido a ofrecer una garantía apropiada de que las disposiciones de seguridad del ADR sean respetadas en la práctica.
+3.- Un conjunto de disposiciones sistemáticas cuyo objetivo es actuar de forma que las medidas de protección radiológica sean debidamente tomadas en consideración.
+4.- Un conjunto de disposiciones aprobadas por la autoridad competente, en virtud de las cuales podrán transportarse los envíos que no cumplan todas las disposiciones del ADR aplicables a las materias radiactivas.
+Respuesta: 3
+Norma: ADR 1.7.2.1
+
+Identificador: 3857
+Enunciado:
+En exposiciones radiactivas profesionales resultantes de las actividades de transporte, ¿cuándo no se requerirá ninguna rutina especial?
+1.- Cuando se determine que es muy improbable que la dosis efectiva supere 1mSv en un año. 
+2.- Cuando se determine que es muy improbable que la dosis efectiva supere 1,5 mSv en un año. 
+3.- Cuando se determine que es muy improbable que la dosis efectiva supere 6 mSv en un año. 
+4.- Siempre será necesario aplicar una vigilancia detallada, programas de evaluación de dosis o control individual, según los casos.
+Respuesta: 1
+Norma: ADR 1.7.2.4 Nota
+
+Identificador: 3858
+Enunciado:
+En caso de no conformidad con cualquiera de los límites del ADR que es de aplicación a la intensidad de la radiación o a la contaminación, ¿quién debe tomar medidas inmediatas para atenuar las consecuencias de la no conformidad? 
+1.- El transportista, el expedidor o el destinatario.
+2.- El explotador de la cisterna
+3.- El llenador.
+4.- El cargador.
+Respuesta: 1
+Norma: ADR 1.7.6.1 Letra b)
+
+Identificador: 3859
+Enunciado:
+En caso de no conformidad con cualquiera de los límites del ADR que es de aplicación a la intensidad de la radiación o a la contaminación ¿quién debe informar a la autoridad competente de las causas de la no conformidad y de las medidas correctoras adoptadas? 
+1.- El expedidor.
+2.- El destinatario.
+3.- El transportista.
+4.- Todos los participantes anteriores.
+Respuesta: 4
+Norma: ADR 1.7.6.1 Letra b)
+
+Identificador: 3860
+Enunciado:
+¿Cuándo se debe realizar la comunicación al expedidor y a las autoridades competentes de la no conformidad con cualquiera de los límites del ADR que es de aplicación a la intensidad de la radiación?
+1.- Una vez se hayan adoptado las primeras medidas para atenuar las consecuencias de la no conformidad.
+2.- Inmediatamente cuando se haya producido una situación de exposición  de emergencia.
+3.- En el caso de constatación de la no conformidad en la recepción de la carga, una vez se haya descargado el último bulto.
+4.- En el caso de un transporte, una vez se haya aparcado convenientemente el vehículo.
+Respuesta: 2
+Norma: ADR 1.7.6.1 Letra c)
+
+Identificador: 3861
+Enunciado:
+¿Qué disposiciones de emergencia deberán observarse en caso de accidentes o incidentes durante el transporte de material radiactivo?
+1.- Únicamente las que dispongan las organizaciones nacionales.
+2.- Las que dispongan las organizaciones internacionales.
+3.- Las que dispongan las organizaciones nacionales e internacionales.
+4.- Las indicas en la respuesta B o en la respuesta C.
+Respuesta: 4
+Norma: ADR 1.7.1 Nota 1
+
+Identificador: 3862
+Enunciado:
+¿Se pueden dominar los riegos de criticidad aplicando las normas que fija el ADR para el transporte de materias radiactivas? 
+1.- Sí, junto con los riesgos eléctricos.
+2.- Sí, junto con los riesgos térmicos y radiológicos.
+3.- No, sólo se pueden dominar los riegos radiológicos.
+4.- No, sólo se pueden dominar los riegos térmicos.
+Respuesta: 2
+Norma: ADR 1.7.1.1
+
+Identificador: 3863
+Enunciado:
+¿Cuás es el orden en que se debiera cumplir las disposiciones del ADR para garantizar la seguridad y proteger a las personas, bienes y medio ambiente, de los efectos de la radiación en el transporte de materias radiactivas?
+1.- Primeramente, prescribiendo controles administrativos; en segundo lugar, modulando límites de contenido para los bultos; y por último, regulando el diseño y la utilización de los bultos.
+2.- Primeramente, regulando el diseño y la utilización de los bultos; en segundo lugar, prescribiendo controles administrativos; y por último, modulando límites de contenido para los bultos.
+3.- Primeramente, modulando límites de contenido para los bultos; en segundo lugar, regulando el diseño y la utilización de los bultos; y por último, prescribiendo controles administrativos.  
+4.- Primeramente, modulando límites de contenido para los bultos; en segundo lugar, prescribiendo controles administrativos; y por último, regulando el diseño y la utilización de los bultos.
+Respuesta: 3
+Norma: ADR 1.7.1.2
+
+Identificador: 3864
+Enunciado:
+De entre las siguientes disposiciones del ADR, ¿cuál no se aplica al transporte de bultos exceptuados que pueden contener material radiactivo en cantidades limitadas?
+1.- Paneles naranja.
+2.- Marcado y etiquetado de bultos cuando se embalan en común varias mercancías.
+3.- Empleo de sobreembalajes.
+4.- Flechas de orientación.
+Respuesta: 1
+Norma: ADR 1.7.1.5.1
+
+Identificador: 3865
+Enunciado:
+Dentro del programa de aseguramiento de la calidad en los transportes de materias radiactivas, ¿qué debe ser capaz de demostrar el fabricante a la autoridad competente?
+1.- Que el vehículo dispone de certificado de aprobación.
+2.- Que los métodos de fabricación y los materiales utilizados son conforme a las especificaciones del modelo acordado.
+3.- Que los trabajadores disponen del certificado de formación correspondiente.
+4.- Todas las anteriores.
+Respuesta: 2
+Norma: ADR 1.7.3
+
+Identificador: 3867
+Enunciado:
+¿Pueden las autoridades competentes españolas solicitar a las autoridades competentes del país del domicilio social del transportista que cometa infracciones en España que adopten las medidas apropiadas en su contra?
+1.- Sí, podrá solicitar que le retire la licencia comunitaria.
+2.- Sí, si la infracciones son muy graves o repetidas.
+3.- No, sólo puede sancionar directamente al transportista.
+4.- No
+Respuesta: 2
+Norma: ADR 1.8.2.2
+
+Identificador: 3868
+Enunciado:
+En el caso de transporte de materias de la clase 7, ¿cuándo se debe presentar el parte de accidente que implique mercancía peligrosa?
+1.- Si se ha producido liberación de materias radiactivas fuera de los bultos, independientemente de la cantidad.
+2.- Si el conductor requiere una hospitalización de un día como consecuencia del golpe con el volante.
+3.- Si el bulto radiactivo ha visto alteradas sus funciones de contención, pero se puede continuar su transporte sin medidas de seguridad adicionales.
+4.- Todas las respuestas son correctas.
+Respuesta: 1
+Norma: ADR 1.8.5.3
+
+Identificador: 3869
+Enunciado:
+¿Cuáles de las siguientes opciones se considera “intervención de la autoridad” a efectos de presentar la declaración de sucesos que implica al transporte de mercancías peligrosas?
+1.- Cuando se produzca el corte de la carretera durante 2 horas.
+2.- Cuando haya intervenido las autoridades competentes para ordenar la circulación y fluidez del tráfico en el punto del accidente.
+3.- Cuando haya intervención directa de las autoridades competentes y se haya procedido a la evacuación de personas durante al menos tres horas.
+4.- Cuando haya intervención de una grúa para trasladar el vehículo que transportaba las mercancías peligrosas.
+Respuesta: 3
+Norma: ADR 1.8.5.3
+
+Identificador: 3870
+Enunciado:
+¿Cuáles de los siguientes elementos debe remitir un organismo de control a la autoridad competente que le ha autorizado?
+1.- Los resultados de los controles excepcionales.
+2.- Los resultados de los controles intermedios.
+3.- Las retiradas de certificados de homologación.
+4.- Toda la documentación señalada en las respuestas anteriores.
+Respuesta: 3
+Norma: ADR 1.8.6.5
+
+Identificador: 3871
+Enunciado:
+¿A qué autoriza la aprobación de tipo?
+1.- A transportar materias radiactivas.
+2.- A la fabricación de recipientes a presión, cisternas, vehículos baterías o CGEM.
+3.- A realizar las funciones propias de los organismo de control.
+4.- A utilizar contenedores para el transporte de determinadas materias.
+Respuesta: 2
+Norma: ADR 1.8.7.2
+
+Identificador: 3872
+Enunciado:
+¿Cuál de las siguientes disposiciones suplementarias no contempladas en el ADR podrá aplicar en su territorio una Parte contratante a los transportes internacionales de mercancías peligrosas?
+1.- No se pueden establecer disposiciones suplementarias no contempladas en el ADR.
+2.- Restricciones al tráfico de vehículos que transporten materias radiactivas.
+3.- Condiciones que precisen el itinerario a seguir por los vehículos con matrícula extranjera para evitar zonas comerciales.
+4.- Condiciones excepcionales que precisen el itinerario a seguir en caso de condiciones atmosféricas extremas.
+Respuesta: 4
+Norma: ADR 1.9.3
+
+Identificador: 3873
+Enunciado:
+Señala la respuesta correcta.
+1.- El túnel más restrictivo es el de categoría A.
+2.- Un mismo túnel podrá ser clasificado en más de una categoría.
+3.- Los peligros a tener en cuenta para determinar la categoría de túneles son los incendios, las explosiones y la fuga de gases asfixiantes.
+4.- Los túneles de categoría C establecen restricciones al transporte de mercancías peligrosas susceptibles de provocar un incendio importante.
+Respuesta: 2
+Norma: ADR 1.9.5.1
+
+Identificador: 3874
+Enunciado:
+¿Por qué categoría de transporte tiene su paso prohibido el hexafloruro de uranio UN 2977?
+1.- Por todas.
+2.- Por ninguna.
+3.- Por túneles de categoría D y E.
+4.- Por túneles de categoría C, D y E.
+Respuesta: 4
+Norma: ADR 1.9.5.2.2
+
+Identificador: 3875
+Enunciado:
+¿Cuáles son las categorías de túneles?
+1.- A, B y C.
+2.- I, II, III, IV y V.
+3.- A, B, C, D  y E.
+4.- 1, 2, 3, 4 y 5.
+Respuesta: 3
+Norma: ADR 1.9.5.2.2
+
+Identificador: 3876
+Enunciado:
+¿Cuál de los siguientes elementos deben formar parte de un plan de protección?
+1.- Actividades de formación adecuadas a las responsabilidades y tareas del participante.
+2.- Controles en la contratación de nuevos empleados.
+3.- Asignación específica de responsabilidades en materia de protección a personas competentes y cualificadas.
+4.- Todas son correctas.
+Respuesta: 4
+Norma: ADR 1.10.3.2.2
+
+Identificador: 3877
+Enunciado:
+De las siguientes medidas, ¿cuáles entran dentro del concepto de protección  que establece el ADR en el capítulo 1.10?
+1.- Aquéllas que se adoptan para reducir al mínimo los riesgos de accidente que impliquen mercancías peligrosas.
+2.- Aquéllas que se adoptan para reducir al mínimo los riesgos laborales de los empleados que trabajen con mercancías peligrosas.
+3.- Aquéllas que se adoptan para reducir al mínimo el robo o la utilización inapropiada de mercancías peligrosas.
+4.- Aquéllas que se adoptan para reducir al mínimo los riesgos de las mercancías peligrosas.
+Respuesta: 3
+Norma: ADR 1.10 Nota
+
+Identificador: 3878
+Enunciado:
+En los transportes de mercancías peligrosas de alto riesgo, ¿cuáles de las siguientes medidas se deben adoptar?
+1.- Instalar y utilizar sistemas telemétricos que permitan seguir los movimientos de las mercancías.
+2.- Instalación en los vehículos de sistemas que impidan el robo del vehículo o el de su carga.
+3.- Planificar la ruta evitando paradas en áreas de descanso calificadas de alto riesgo en cuanto  robos de mercancías.
+4.- Instalar cerrojos o cerraduras de seguridad en los compartimentos de carga.
+Respuesta: 2
+Norma: ADR 1.10.3.3
+
+Identificador: 3879
+Enunciado:
+De las siguientes medidas relacionadas con la protección, ¿cuál deberá adoptarse en el transporte de UN 2910, MATERIALES RADIACTIVOS, BULTOS EXCEPTUADOS-CANTIDADES LIMITADAS DE MATERIALES?
+1.- Los miembros de la tripulación deberán llevar un documento identificativo con su fotografía.
+2.- Elaborar un plan de protección.
+3.- Instalar en el vehículo dispositivo de protección que impidan su robo o el de su carga.
+4.- Todas las anteriores.
+Respuesta: 4
+Norma: ADR 1.10.4
+
+Identificador: 3880
+Enunciado:
+¿Durante cuánto tiempo deberán guardarse los registros de formación en materia de protección recibida por los empleados?
+1.- 1 año.
+2.- 2 años.
+3.- 5 años.
+4.- El tiempo que determine la autoridad competente.
+Respuesta: 4
+Norma: ADR 1.10.2.4
+
+Identificador: 3881
+Enunciado:
+¿Deberán adoptar y aplicar planes de protección el transportista y el cargador de un transporte de materiales radiactivos de alto riesgo?
+1.- Sí, pero sólo el transportista.
+2.- Sí, pero sólo el cargador.
+3.- Sí, ambos.
+4.- No ninguno.
+Respuesta: 3
+Norma: ADR 1.10.3.2.1
+
+Identificador: 3882
+Enunciado:
+¿Qué materias engloban los epígrafes n.e.p. generales?
+1.- Grupos de materias u objetos de naturaleza química o física especial no especificados en otra parte.
+2.- Grupos de materias u objetos con una o varias propiedades generales peligrosas no especificados en otra parte.
+3.- Materias y objetos claramente definidos, incluidos los que comprenden varios isómeros.
+4.- Grupo claramente definidos de materias u objetos que no son epígrafes n.e.p.
+Respuesta: 2
+Norma: ADR 2.1.1.2
+
+Identificador: 3883
+Enunciado:
+¿Dónde enumera el ADR las materias que no se admiten al transporte?
+1.- En las subsecciones 2.2.x.1 de cada clase.
+2.- En las subsecciones 2.2.x.2 de cada clase.
+3.- En las subsecciones 2.2.x.3 de cada clase.
+4.- El ADR no enumera las materias que no se admiten de transporte.
+Respuesta: 2
+Norma: ADR 2.1.2.4
+
+Identificador: 3884
+Enunciado:
+¿Cuál de los siguientes epígrafes colectivos es el menos específico, y por tanto, sólo se recurrirá a él si no es posible emplear uno más específico?
+1.- Epígrafe individual.
+2.- Epígrafe n.e.p específico.
+3.- Epígrafe n.e.p general.
+4.- Epígrafe  genérico.
+Respuesta: 3
+Norma: ADR 2.1.2.5
+
+Identificador: 3885
+Enunciado:
+¿Qué regula el ADR en las subsecciones 2.2.x.1 de cada clase?
+1.- La lista de epígrafes colectivos.
+2.- Los criterios de clasificación de las mercancías peligrosas.
+3.- El listado de materias que corresponden a la clase en cuestión.
+4.- Las mercancías no admitidas al transporte.
+Respuesta: 2
+Norma: ADR 2.1.2.1
+
+Identificador: 3886
+Enunciado:
+¿Qué grupo de embalaje corresponde a las materias muy peligrosas?
+1.- Grupo I. 
+2.- Grupo II.
+3.- Grupo III.
+4.- Grupo A.
+Respuesta: 1
+Norma: ADR 2.1.1.3
+
+Identificador: 3887
+Enunciado:
+A fin de clasificar una mezcla con características de peligro que responden a varias clases, ¿cuál es la clase preponderante de las que se indican a continuación?
+1.- Clase 7.
+2.- Clase 4.2.
+3.- Clase 5.2.
+4.- Clase 1.  
+Respuesta: 1
+Norma: ADR 2.1.3.5.3
+
+Identificador: 3888
+Enunciado:
+En la prueba de resistencia al choque a la que se debe someter las materias radiactivas en forma especial, ¿desde qué altura se dejará caer la muestra?
+1.- Desde 8 m.
+2.- Desde 9 m.
+3.- Desde 10 m.
+4.- Desde 11 m.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.3.5
+
+Identificador: 3889
+Enunciado:
+¿Cuál de las siguientes materias se clasifican en LSA-I?
+1.- Torio irradiado.
+2.- Uranio enriquecido.
+3.- Materiales cuya A2 sea ilimitada.
+4.- Materias fisionable no exceptuadas.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 3890
+Enunciado:
+¿Cuál de las siguientes materias se clasifican en LSA-II?
+1.- Agua con una concentración de tritio de 0,8 TBq/l.
+2.- Uranio natural no irradiado.
+3.- Minerales de uranio.
+4.- Minerales que contienen radionucleidos naturales.
+Respuesta: 1
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 3891
+Enunciado:
+¿Qué actividad específica media estimada no debe sobrepasar un líquido, cuya actividad está repartida en el conjunto de la materia, para ser considerado materia en LSA-II?
+1.- 10-2 A2/g.
+2.- 10-4 A2/g.
+3.- 10-5 A2/g.
+4.- 10-6 A2/g.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.1.2
+
+Identificador: 3892
+Enunciado:
+De las siguientes pruebas, ¿cuál debe superar todas las materias radiactivas encerrada en una cápsula sellada?
+1.- Pruebas de resistencia al choque.
+2.- Prueba de lixiviación o control volumétrico.
+3.- Pruebas de percusión.
+4.- Prueba térmica.
+Respuesta: 2
+Norma: ADR 2.2.7.2.3.3.6, 2.2.7.2.3.3.7 y 2.2.7.2.3.3.8
+
+Identificador: 3893
+Enunciado:
+Cuánto debe medir las materias radiactivas en forma especial?
+1.- 5 cm. al menos en una de sus dimensiones.
+2.- Al menos 5 cm2.
+3.- Al menos 5 mm. en una de sus dimensiones
+4.- 5 mm. de diámetro.
+Respuesta: 3
+Norma: ADR 2.2.7.2.3.3.1
+
+Identificador: 3894
+Enunciado:
+Si en la designación oficial del transporte existen conjunciones “y” u “o”, o hay elementos del nombre separados por coma, ¿cómo se consignará en la carta de porte y en los bultos?
+1.- Se consignará el nombre íntegro en la carta de porte, pero no en la marca de los bultos.
+2.- Se consignará el nombre íntegro en la marca de los bultos, pero no en la carta de porte.
+3.- Será necesario consignar el nombre íntegro en la carta de porte y en la marca de los bultos.
+4.- No será necesario consignar el nombre íntegro en la carta de porte, ni en la marca de los bultos.
+Respuesta: 4
+Norma: ADR 3.1.2.2
+
+Identificador: 3895
+Enunciado:
+Según el ADR, ¿quién debe conservar la documentación suplementaria señalada en el ADR durante un período mínimo de tres meses?
+1.- El transportista.
+2.- El expedidor.
+3.- El cargador.
+4.- A y B son correctas.
+Respuesta: 4
+Norma: ADR 5.4.4.1
+
+Identificador: 3896
+Enunciado:
+¿Qué podemos observar en la columna 14 de la Tabla A del ADR?
+1.- La categoría de transporte de cada mercancía.
+2.- El código de cisterna.
+3.- Las disposiciones relativas al embalaje en común.
+4.- El tipo de vehículo para el transporte de la mercancía en cuestión.
+Respuesta: 4
+Norma: ADR 3.2.1 Columna 14
+
+Identificador: 3897
+Enunciado:
+De los siguientes datos correspondientes a la información contenida en la carta de porte de un transporte de material radiactivo, ¿cuál debe figurar en primer lugar?
+1.- Nombre y dirección de los expedidores.
+2.- El número de la clase 7.
+3.- El código de restricción en túneles.
+4.- El número y descripción de los bultos.
+Respuesta: 2
+Norma: ADR 5.4.1.1.1
+
+Identificador: 3915
+Enunciado:
+¿Qué capacidad máxima puede tener el GRG para el transporte de materias de la clase 7?
+1.- Las materias radiactivas no se pueden transportar en GRG.
+2.- Igual o menor de 1,5 m³.
+3.- No mayor de 3 m³.
+4.- Igual o menor de 5 m³.
+Respuesta: 3
+Norma: ADR 1.2.1 Letra G
+
