@@ -10,14 +10,13 @@ const archivos = [
     "/archivoTxtEsp5.txt"
   ];
   
-const aleatorio = archivos[Math.floor(Math.random() * archivos.length)];
-
-fetch(aleatorio)
-  .then(r => r.text())
-  .then(texto => {
-    preguntas = mezclarArray(parsearPreguntas(texto));
-    mostrarPregunta();
-  });
+  const aleatorio = archivos[Math.floor(Math.random() * archivos.length)];
+  fetch(aleatorio)
+    .then(r => r.text())
+    .then(texto => {
+      preguntas = mezclarArray(parsearPreguntas(texto));
+      mostrarPregunta();
+    });
 
 function parsearPreguntas(texto) {
   const bloques = texto.split(/Identificador:/).filter(Boolean);
